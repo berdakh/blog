@@ -3,7 +3,9 @@ layout: page
 title: About me
 permalink: /about/
 ---
-### Berdakh Abibullaev, PhD
+<img align="right" src="../images/photo.png" alt="drawing" width="150"/>
+
+## Berdakh Abibullaev, PhD
 
 - Brain-Computer/Machine Systems engineer with extensive experience
 in analysing Brain data (EEG, ECoG, MEG, NIRS) for a real-time/offline mental state recognition.
@@ -14,7 +16,7 @@ huge unstructured data.
 - Expert in Electromagnetic Source Imaging (Forward - Inverse Modeling).
 
 
-### Short Biography: 
+## Short Biography: 
 
 Dr. Berdakh Abibullaev received his B.Sc. degree in information and communications technology from Tashkent University of Information Technologies, in 2004, and M.Sc. and Ph.D. degrees in electronic engineering from Yeungnam University, South Korea in 2006 and 2010, respectively.
 
@@ -24,6 +26,7 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 
 His current research focuses on designing robust neural-interfaces to control a robotic device for human augmentation, and advancing machine learning algorithms to develop new and alternative solutions to inference problems of Brain-Computer/Machine Interfaces.  
 
+### Publications
 
 Check out his:: [Google scholar](https://scholar.google.co.kr/citations?hl=en&user=KvECkz0AAAAJ&view_op=list_works&sortby=pubdate) :: for recent publications. 
 
