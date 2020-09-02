@@ -5,6 +5,7 @@ permalink: /about/
 ---
 <img align="right" src="../images/photo.png" alt="drawing" width="150"/>
 
+---
 ## Berdakh Abibullaev, PhD
 
 - Brain-Computer/Machine Systems engineer with extensive experience
@@ -16,6 +17,7 @@ huge unstructured data.
 - Expert in Electromagnetic Source Imaging (Forward - Inverse Modeling).
 
 
+---
 ## Short Biography: 
 
 Dr. Berdakh Abibullaev received his B.Sc. degree in information and communications technology from Tashkent University of Information Technologies, in 2004, and M.Sc. and Ph.D. degrees in electronic engineering from Yeungnam University, South Korea in 2006 and 2010, respectively.
