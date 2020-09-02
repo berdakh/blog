@@ -24,4 +24,5 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 His current research focuses on designing robust neural-interfaces to control a robotic device for human augmentation, and advancing machine learning algorithms to develop new and alternative solutions to inference problems of Brain-Computer/Machine Interfaces.  
 
 
-Check out his:: Google scholar :: for recent publications. 
+Check out his:: [Google scholar](https://scholar.google.co.kr/citations?hl=en&user=KvECkz0AAAAJ&view_op=list_works&sortby=pubdate) :: for recent publications. 
+
