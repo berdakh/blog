@@ -4,13 +4,13 @@ title: Berdakh Abibullaev, PhD
 permalink: /about/
 ---
 
-1. Brain-Computer/Machine Systems engineer with extensive experience
+- Brain-Computer/Machine Systems engineer with extensive experience
 in analysing Brain data (EEG, ECoG, MEG, NIRS) for a real-time/offline mental state recognition.
 
-2. Deep expertise in developing and applying machine (deep) learning methods for mining
+- Deep expertise in developing and applying machine (deep) learning methods for mining
 huge unstructured data. 
 
-3. Expert in Electromagnetic Source Imaging (Forward - Inverse Modeling).
+- Expert in Electromagnetic Source Imaging (Forward - Inverse Modeling).
 
 
 ## Short Biography: 
