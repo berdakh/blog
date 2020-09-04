@@ -3,23 +3,33 @@ layout: page
 title: About me
 permalink: /about/
 ---
-<img src="../images/photo1.png" alt="drawing" width="900"/>
 
+Berdakh Abibullaev, Ph.D. 
+============
+    Robotics and Mechatronics Department, 
+    School of Engineering and Digital Sciences, 
+    Nazarbayev University 
 
-## Research expertise
+    Address : 53 Kabanbay Batyr Avenue, Nur-Sultan, Kazakhstan, Block 7. 
+    Email   : berdakh.abibullaev at nu.edu.kz  
+ 
+\_
 
--   Brain-Computer/Machine Systems engineer with extensive experience in
+Executive Summary 
+---------
+   - Brain-Computer/Machine Systems engineer with extensive experience in
     analyzing Brain data (EEG, ECoG, MEG, NIRS) for a real-time/offline
     mental state recognition.
-
--   Deep expertise in developing and applying machine learning methods
+    
+   - Deep expertise in developing and applying machine learning methods
     for mining neurophysiological data both from healthy subjects as
     well as patients with Stroke and Epilepsy disorders.
 
--   Successfully collaborated with clinicians at medical centers in
+   - Successfully collaborated with clinicians at medical centers in
     joint research on Stroke rehabilitation and Epilepsy surgery i.e.
     localization of epileptogenic zones from Brain data.
 
+\_
 
 ## Short Biography: 
 
@@ -29,6 +39,53 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 
 His current research focuses on designing robust neural-interfaces to control a robotic device for human augmentation, and advancing machine learning algorithms to develop new and alternative solutions to inference problems of Brain-Computer/Machine Interfaces.  
 
+\_
+
+Research Interests 
+---------
+**Neural Engineering:**
+    Brain-Computer/Machine Interfaces; Biomedical data analysis; Epilepsy Research; Stroke Rehabilitation, EEG/ECoG Signal Processing. 
+
+**Machine Learning:**
+    Deep Learning and its applications; Kernel based learning; Feature Representation Learning; Pattern analysis and recognition. 
+
+\_
+
+Education
+---------
+
+2006-2010 
+:   **PhD, Electronic Engineering**; Yeungnam University, South Korea 
+
+2004-2006 
+:   **MSc, Electronic Engineering**; Yeungnam University, South Korea    
+
+2000-2004
+:   **BSc, Information and Communication Engineering**; Tashkent University of Information Technologies, Uzbekistan 
+
+\_ 
+
+Academic and Research Experience
+----------
+**Assistant Professor** {09/2015-present}
+Robotics \& Mechatronics Department, School of Science and Technology, Nazarbayev University, Nur-Sultan, Kazakhstan
+
+**Visiting Professor:**  {5/2018 - 7/2018}
+Department of Electrical Engineering \& Computer Science, University of Houston, Houston, Texas, U.S.A.
+
+**NIH Postdoctoral Research Fellow II:**  {5/2014 - 9/2015}
+Department of Electrical Engineering \& Computer Science, University of Houston, Houston, Texas, U.S.A.
+
+**Research Professor:**  {1/2014 - 9/2015}
+Department of Neurology, Samsung Medical Center, Sungkyunkwan University, Seoul, South Korea
+
+**Senior Research Scientist:**  {05/2011 - 12/2013}
+Robotics Research Division, Daegu Gyeongbuk Institute of Science and Technology, South Korea 
+
+**Postdoctoral Research Fellow:**  {02/2010 - 05/2011}
+Robotics Research Division, Daegu Gyeongbuk Institute of Science and Technology, South Korea 
+
+\_ 
 
 ## Selected Publications
 
@@ -83,5 +140,3 @@ G.H. Jang. Self-directed rehabilitation training method combining brain
 signals and functional electro-stimulation. : 17077057, *Application
 number*: 14049302, 09-OCT-2013, United States,
 (http://www.google.com/patents/US20140200632).
-
- 
