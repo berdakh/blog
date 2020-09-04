@@ -6,14 +6,14 @@ permalink: /about/
 
 Berdakh Abibullaev, Ph.D. 
 ============
-    Robotics and Mechatronics Department, 
-    School of Engineering and Digital Sciences, 
-    Nazarbayev University 
+Robotics and Mechatronics Department,<br/> 
+School of Engineering and Digital Sciences,<br/> 
+Nazarbayev University<br/> 
 
-    Address : 53 Kabanbay Batyr Avenue, Nur-Sultan, Kazakhstan, Block 7. 
-    Email   : berdakh.abibullaev at nu.edu.kz  
+Address: 53 Kabanbay Batyr Avenue, Nur-Sultan, Kazakhstan, Block 7.<br/>
+Email  : berdakh.abibullaev at nu.edu.kz  
  
-\_
+<br/>
 
 Executive Summary 
 ---------
@@ -29,17 +29,15 @@ Executive Summary
     joint research on Stroke rehabilitation and Epilepsy surgery i.e.
     localization of epileptogenic zones from Brain data.
 
-\_
+<br/>
 
 ## Short Biography: 
 
 Dr. Berdakh Abibullaev received his M.Sc. and Ph.D. degrees in electronic engineering from Yeungnam University, South Korea in 2006 and 2010 under the Korean Government Scholarship program. He held research scientist positions at Daegu-Gyeongbuk Institute of Science and Technology  (2010-2013) and Samsung Medical Center, South Korea (2013-2014). He was also appointed as a research professor at Sungkyunkwan University, Seoul. In 2014, he received NIH (National Institute of Health,  USA), a postdoctoral research fellowship to join a research project between the University of Houston Brain-Machine Interface Systems Team and a Texas Medical Center in developing neural interfaces for rehabilitation in post-stroke patients.  Currently, he is an Assistant Professor in the Department of Robotics and Mechatronics,  Nazarbayev University,  Kazakhstan. His research focuses on developing robust Brain-Computer/Machine Interfaces for communication and rehabilitation of people with severe motor impairments.
 
-Dr. Abibullaev has considerable research and clinical experience working with patient populations and physicians in applying scientific and technical skills to advance the development of treatments for neurological disorders.  
+Dr. Abibullaev has considerable research and clinical experience working with patient populations and physicians in applying scientific and technical skills to advance the development of treatments for neurological disorders. His current research focuses on designing robust neural-interfaces to control a robotic device for human augmentation, and advancing machine learning algorithms to develop new and alternative solutions to inference problems of Brain-Computer/Machine Interfaces.  
 
-His current research focuses on designing robust neural-interfaces to control a robotic device for human augmentation, and advancing machine learning algorithms to develop new and alternative solutions to inference problems of Brain-Computer/Machine Interfaces.  
-
-\_
+<br/>
 
 Research Interests 
 ---------
@@ -49,32 +47,28 @@ Research Interests
 **Machine Learning:**
     Deep Learning and its applications; Kernel based learning; Feature Representation Learning; Pattern analysis and recognition. 
 
-\_
+<br/>
 
 Education
 ---------
+**PhD, Electronic Engineering** {2006-2010} Yeungnam University, South Korea 
 
-2006-2010 
-:   **PhD, Electronic Engineering**; Yeungnam University, South Korea 
+**MSc, Electronic Engineering** {2004-2006} Yeungnam University, South Korea    
 
-2004-2006 
-:   **MSc, Electronic Engineering**; Yeungnam University, South Korea    
+**BSc, Information and Communication Engineering** {2000-2004} Tashkent University of Information Technologies, Uzbekistan 
 
-2000-2004
-:   **BSc, Information and Communication Engineering**; Tashkent University of Information Technologies, Uzbekistan 
-
-\_ 
+<br/>
 
 Academic and Research Experience
 ----------
 **Assistant Professor** {09/2015-present}
-Robotics \& Mechatronics Department, School of Science and Technology, Nazarbayev University, Nur-Sultan, Kazakhstan
+Robotics & Mechatronics Department, School of Science and Technology, Nazarbayev University, Nur-Sultan, Kazakhstan
 
 **Visiting Professor:**  {5/2018 - 7/2018}
-Department of Electrical Engineering \& Computer Science, University of Houston, Houston, Texas, U.S.A.
+Department of Electrical Engineering & Computer Science, University of Houston, Houston, Texas, U.S.A.
 
 **NIH Postdoctoral Research Fellow II:**  {5/2014 - 9/2015}
-Department of Electrical Engineering \& Computer Science, University of Houston, Houston, Texas, U.S.A.
+Department of Electrical Engineering & Computer Science, University of Houston, Houston, Texas, U.S.A.
 
 **Research Professor:**  {1/2014 - 9/2015}
 Department of Neurology, Samsung Medical Center, Sungkyunkwan University, Seoul, South Korea
@@ -85,11 +79,13 @@ Robotics Research Division, Daegu Gyeongbuk Institute of Science and Technology,
 **Postdoctoral Research Fellow:**  {02/2010 - 05/2011}
 Robotics Research Division, Daegu Gyeongbuk Institute of Science and Technology, South Korea 
 
-\_ 
+<br/> 
 
 ## Selected Publications
 
 Check out his:: [Google scholar](https://scholar.google.co.kr/citations?hl=en&user=KvECkz0AAAAJ&view_op=list_works&sortby=pubdate) :: for recent publications. 
+
+<br/>
 
 <u>B. Abibullaev</u>, I. and A. Zollanvari. A Brute-force CNN Model
 Selection for Accurate Classification of Sensorimotor Rhythms in BCIs
