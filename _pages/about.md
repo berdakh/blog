@@ -5,7 +5,7 @@ permalink: /about/
 ---
 <img src="../images/photo1.png" alt="drawing" width="900"/>
 
-
+<font size="3">
 ## Research expertise
 
 -   Brain-Computer/Machine Systems engineer with extensive experience in
@@ -83,4 +83,5 @@ G.H. Jang. Self-directed rehabilitation training method combining brain
 signals and functional electro-stimulation. : 17077057, *Application
 number*: 14049302, 09-OCT-2013, United States,
 (http://www.google.com/patents/US20140200632).
- 
+
+</font> 
