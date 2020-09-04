@@ -6,12 +6,12 @@ permalink: /about/
 
 Berdakh Abibullaev, Ph.D. 
 ============
-Robotics and Mechatronics Department,<br/> 
-School of Engineering and Digital Sciences,<br/> 
-Nazarbayev University<br/> 
+    Robotics and Mechatronics Department,<br/> 
+    School of Engineering and Digital Sciences,<br/> 
+    Nazarbayev University<br/> 
 
-Address: 53 Kabanbay Batyr Avenue, Nur-Sultan, Kazakhstan, Block 7.<br/>
-Email  : berdakh.abibullaev at nu.edu.kz  
+    Address: 53 Kabanbay Batyr Avenue, Nur-Sultan, Kazakhstan, Block 7.<br/>
+    Email  : berdakh.abibullaev at nu.edu.kz  
  
 <br/>
 
