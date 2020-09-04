@@ -6,6 +6,7 @@ permalink: /about/
 <img src="../images/photo1.png" alt="drawing" width="900"/>
 
 <font size="3">
+
 ## Research expertise
 
 -   Brain-Computer/Machine Systems engineer with extensive experience in
