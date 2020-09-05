@@ -14,21 +14,6 @@ Berdakh Abibullaev, Ph.D.
     Email  : berdakh.abibullaev at nu.edu.kz  
  
  
-Executive Summary 
----------
-   - Brain-Computer/Machine Systems engineer with extensive experience in
-    analyzing Brain data (EEG, ECoG, MEG, NIRS) for a real-time/offline
-    mental state recognition.
-    
-   - Deep expertise in developing and applying machine learning methods
-    for mining neurophysiological data both from healthy subjects as
-    well as patients with Stroke and Epilepsy disorders.
-
-   - Successfully collaborated with clinicians at medical centers in
-    joint research on Stroke rehabilitation and Epilepsy surgery i.e.
-    localization of epileptogenic zones from Brain data.
-
- 
 ## Short Biography: 
 
 Dr. Berdakh Abibullaev received his M.Sc. and Ph.D. degrees in electronic engineering from Yeungnam University, South Korea in 2006 and 2010 under the Korean Government Scholarship program. He held research scientist positions at Daegu-Gyeongbuk Institute of Science and Technology  (2010-2013) and Samsung Medical Center, South Korea (2013-2014). He was also appointed as a research professor at Sungkyunkwan University, Seoul. In 2014, he received NIH (National Institute of Health,  USA), a postdoctoral research fellowship to join a research project between the University of Houston Brain-Machine Interface Systems Team and a Texas Medical Center in developing neural interfaces for rehabilitation in post-stroke patients.  Currently, he is an Assistant Professor in the Department of Robotics and Mechatronics,  Nazarbayev University,  Kazakhstan. His research focuses on developing robust Brain-Computer/Machine Interfaces for communication and rehabilitation of people with severe motor impairments.
@@ -47,9 +32,9 @@ Research Interests
  
 Education
 ---------
-**PhD, Electronic Engineering** {2006-2010} Yeungnam University, South Korea 
+**PhD, Department of Electronic Engineering** {2006-2010} Yeungnam University, South Korea 
 
-**MSc, Electronic Engineering** {2004-2006} Yeungnam University, South Korea    
+**MSc, Department of Electronic Engineering** {2004-2006} Yeungnam University, South Korea    
 
 **BSc, Information and Communication Engineering** {2000-2004} Tashkent University of Information Technologies, Uzbekistan 
 
