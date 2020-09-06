@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-## Berdakh Abibullaev, Ph.D.
+### Berdakh Abibullaev, Ph.D.
 ----------
     Robotics and Mechatronics Department,  
     School of Engineering and Digital Sciences, 
@@ -14,14 +14,14 @@ permalink: /about/
     Email  : berdakh.abibullaev at nu.edu.kz  
  
  
-## Short Biography: 
+### Short Biography: 
 ----------
 Dr. Berdakh Abibullaev received his M.Sc. and Ph.D. degrees in electronic engineering from Yeungnam University, South Korea in 2006 and 2010 under the Korean Government Scholarship program. He held research scientist positions at Daegu-Gyeongbuk Institute of Science and Technology  (2010-2013) and Samsung Medical Center, South Korea (2013-2014). He was also appointed as a research professor at Sungkyunkwan University, Seoul. In 2014, he received NIH (National Institute of Health,  USA), a postdoctoral research fellowship to join a research project between the University of Houston Brain-Machine Interface Systems Team and a Texas Medical Center in developing neural interfaces for rehabilitation in post-stroke patients.  Currently, he is an Assistant Professor in the Department of Robotics and Mechatronics,  Nazarbayev University, Kazakhstan. 
 
 Dr. Abibullaev has considerable research and clinical experience working with patient populations and physicians in applying scientific and technical skills to advance the development of treatments for neurological disorders. His current research focuses on designing robust neural-interfaces to control a robotic device for human augmentation, and advancing machine learning algorithms to develop new and alternative solutions to inference problems of Brain-Computer/Machine Interfaces.  
 
  
-## Research Interests 
+### Research Interests 
 ---------
 **Neural Engineering:**
     Brain-Computer/Machine Interfaces; Biomedical data analysis; Epilepsy Research; Stroke Rehabilitation, EEG/ECoG/fNIRS Signal Processing. 
@@ -30,7 +30,7 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
     Deep Learning and its applications; Kernel based learning; Feature Representation Learning; Pattern analysis and recognition. 
 
  
-## Education
+### Education
 ---------
 **PhD, Department of Electronic Engineering**: {2006-2010}, Yeungnam University, South Korea 
 
@@ -39,7 +39,7 @@ Dr. Abibullaev has considerable research and clinical experience working with pa
 **BSc, Information and Communication Engineering**: {2000-2004}, Tashkent University of Information Technologies, Uzbekistan 
 
  
-## Academic and Research Experience
+### Academic and Research Experience
 ----------
 **Assistant Professor** {09/2015-present},
 Robotics & Mechatronics Department, School of Engineering and Digital Sciences, Nazarbayev University, Nur-Sultan, Kazakhstan
@@ -60,7 +60,7 @@ Robotics Research Division, Daegu Gyeongbuk Institute of Science and Technology,
 Robotics Research Division, Daegu Gyeongbuk Institute of Science and Technology, South Korea 
 
  
-## Selected Publications
+### Selected Publications
 ----------
 Check out his:: [Google scholar](https://scholar.google.co.kr/citations?hl=en&user=KvECkz0AAAAJ&view_op=list_works&sortby=pubdate) :: for recent publications. 
 
