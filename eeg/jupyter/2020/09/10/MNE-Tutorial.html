@@ -139,9 +139,12 @@ window.onload = wrap_img;
 
   <div class="post-content e-content" itemprop="articleBody">
     <ul class="section-nav">
-<li class="toc-entry toc-h1"><a href="#Read-in-raw-data;-raw-objects">Read in raw data; raw objects </a>
+<li class="toc-entry toc-h2"><a href="#Read-in-raw-data;-raw-objects">Read in raw data; raw objects </a></li>
+<li class="toc-entry toc-h1"><a href="#Inspecting-raw-data-...">Inspecting raw data ... </a>
 <ul>
 <li class="toc-entry toc-h2"><a href="#Epochs">Epochs </a></li>
+<li class="toc-entry toc-h2"><a href="#Save-data">Save data </a></li>
+<li class="toc-entry toc-h2"><a href="#Get-Numpy-Array">Get Numpy Array </a></li>
 </ul>
 </li>
 </ul><!--
@@ -234,9 +237,9 @@ window.onload = wrap_img;
 <div class="cell border-box-sizing text_cell rendered">
 <div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h1 id="Read-in-raw-data;-raw-objects">
+<h2 id="Read-in-raw-data;-raw-objects">
 <a class="anchor" href="#Read-in-raw-data;-raw-objects" aria-hidden="true"><span class="octicon octicon-link"></span></a>Read in raw data; raw objects<a class="anchor-link" href="#Read-in-raw-data;-raw-objects"> </a>
-</h1>
+</h2>
 </div>
 </div>
 </div>
@@ -523,6 +526,15 @@ Designing a one-pass, zero-phase, non-causal bandpass filter:
 </div>
     
 
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h1 id="Inspecting-raw-data-...">
+<a class="anchor" href="#Inspecting-raw-data-..." aria-hidden="true"><span class="octicon octicon-link"></span></a>Inspecting raw data ...<a class="anchor-link" href="#Inspecting-raw-data-..."> </a>
+</h1>
+</div>
+</div>
+</div>
     
     
 <div class="cell border-box-sizing code_cell rendered">
@@ -531,48 +543,8 @@ Designing a one-pass, zero-phase, non-causal bandpass filter:
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">plt</span><span class="o">.</span><span class="n">rcParams</span><span class="p">[</span><span class="s2">"figure.figsize"</span><span class="p">]</span><span class="o">=</span><span class="mi">20</span><span class="p">,</span><span class="mi">10</span>
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-</div>
-    
-
-<div class="cell border-box-sizing text_cell rendered">
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>Inspecting raw data ...</p>
-
-</div>
-</div>
-</div>
-    
-    
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="o">%</span><span class="k">matplotlib</span> inline
-</pre></div>
-
-    </div>
-</div>
-</div>
-
-</div>
-    
-
-    
-    
-<div class="cell border-box-sizing code_cell rendered">
-<div class="input">
-
-<div class="inner_cell">
-    <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="o">%</span><span class="k">qtconsole</span>
+<span class="o">%</span><span class="k">matplotlib</span> inline
+<span class="o">%</span><span class="k">qtconsole</span>
 </pre></div>
 
     </div>
@@ -622,10 +594,10 @@ Designing a one-pass, zero-phase, non-causal bandpass filter:
 
 
 
-<div id="a2a19444-ab49-4fbd-9a47-da5afa6ff517"></div>
+<div id="905d0ad0-e3a4-4dd6-8d1c-844decea1ffc"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#a2a19444-ab49-4fbd-9a47-da5afa6ff517');
+var element = $('#905d0ad0-e3a4-4dd6-8d1c-844decea1ffc');
 /* Put everything inside the global mpl namespace */
 window.mpl = {};
 
@@ -20793,6 +20765,15 @@ preprocessing later ...</p>
 </div>
 </div>
 </div>
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Save-data">
+<a class="anchor" href="#Save-data" aria-hidden="true"><span class="octicon octicon-link"></span></a>Save data<a class="anchor-link" href="#Save-data"> </a>
+</h2>
+</div>
+</div>
+</div>
     
     
 <div class="cell border-box-sizing code_cell rendered">
@@ -20983,6 +20964,15 @@ oddball2-epo.fif                  README.md
 </div>
     
 
+<div class="cell border-box-sizing text_cell rendered">
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Get-Numpy-Array">
+<a class="anchor" href="#Get-Numpy-Array" aria-hidden="true"><span class="octicon octicon-link"></span></a>Get Numpy Array<a class="anchor-link" href="#Get-Numpy-Array"> </a>
+</h2>
+</div>
+</div>
+</div>
     
     
 <div class="cell border-box-sizing code_cell rendered">
