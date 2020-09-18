@@ -1,15 +1,18 @@
 ---
+toc: true
 layout: page
 title: Teaching
 permalink: /teaching/
 ---
 
-# Machine Learning with Applications (ROBT407)
-## Course Description
+# FALL Semester 2020 
+
+## Machine Learning with Applications (ROBT407)
+### Course Description
 
 ROBT 407 introduces the students to the state-of-the-art analytical tools and methods used for machine learning. Topics include (semi) supervised and unsupervised learning, neural networks, deep learning, support vector machines, the design of machine learning experiments, decision trees, linear discrimination and kernel-based learning methods. The course also contains integrated term projects. Python-based machine learning packages (e.g., scikitLearn, Pytorch, Numpy, Scipy, Pandas, Matplotlib) and online databases will be used extensively.
  
--   Course materials available on Moodle.
+-   Course materials  
 
 -   **Textbook:** *LEARNING FROM DATA*, Abu-Mostafa, Magdon-Ismail, Lin.
     Publication date and edition - 1st ed., March 27, 2012, ISBN
@@ -62,3 +65,54 @@ areas:
     different programming languages.
 
 -   Use advanced machine learning tools for data analysis.
+
+### Youtube lectures 
+[![](http://img.youtube.com/vi/p04Dby32a7U/0.jpg)](http://www.youtube.com/watch?v=p04Dby32a7U "")
+
+
+
+## Brain-Machine Interfaces (ROBT613)
+### Course Description
+
+Brain-Machine Interface (BMI) systems are an emerging interdisciplinary field at the intersection of engineering, neuroscience, and medicine. It has brought promising new perspectives to human-machine interaction using brain activity. It provides users the capability to control applications such as assistive robotic technologies directly.  This course is an introduction to the fundamentals of BMI technology and discusses its applications including both invasive and non-invasive BMI systems for controlling user interfaces, prosthetic arms, wheelchairs, and robotic exoskeletons.  The course will also introduce other clinical applications of BMI technology for patients with locked-in syndrome and its utility in restoring movement and mobility in severely paralyzed persons.  Also, other nonclinical use of BMI technology will be studied with hands-on experiments/projects for applications such as security, alertness monitoring, entertainment, gaming, and education or human augmentation. 
+
+The course will be delivered in the form of mixed lectures with case studies and discussion of research papers led by student groups, and in-class demonstration of BMI systems using the systems available at NU. The lecture series will cover core topics related to neural signal processing and machine learning algorithms that convert EEG features into control commands (i.e. an upper-limb rehabilitative robot).  Python /Matlab and related signal processing and machine learning libraries will be used extensively.
+
+
+-   Course materials  
+
+-   **Textbook:** •	Wolpaw, Jonathan, and Elizabeth Winter Wolpaw. Brain-computer interfaces: principles and practice.
+                    OUP, USA, 2012.
+ 
+
+ 
+Course Objectives
+=================
+
+Successful students:
+
+1.  Establish fundamental knowledge and skills to analyze EEG, MEG, and hemodynamic brain signals   
+
+2.  Acquire core knowledge and practical skills related to EEG, MEG analysis and decoding,
+    which are relevant for brain machine interface research. 
+
+3.  Work independently, plan and carry out necessary laboratory experiments on brain data acquisition 
+
+4.  Present the results through seminar discussions and reports
+
+
+Course learning outcomes
+========================
+
+At the completion of this course, students will know the following
+areas:
+
+-	to plan and carry out Brain-Machine Interface experiments,
+-	to obtain programming skills required to design interfaces with human and machines,
+-	to analyze the data and interpret their findings and present them scientifically
+-   Use advanced machine learning tools for brain data analysis.
+
+
+### Youtube lectures 
+[![](http://img.youtube.com/vi/th4-hAOTETk/0.jpg)](http://www.youtube.com/watch?v=th4-hAOTETk "")
+
