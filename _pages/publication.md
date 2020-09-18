@@ -4,9 +4,9 @@ title: Publications
 permalink: /publication/
 ---
 
-* 1. [Patents](#Patents)
-* 2. [Journal Publications](#JournalPublications)
-* 3. [Conference Publications](#ConferencePublications)
+1. [Patents](#Patents)
+2. [Journal Publications](#JournalPublications)
+3. [Conference Publications](#ConferencePublications)
 
 
 ##  1. <a name='Patents'></a>Patents 
