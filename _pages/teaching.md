@@ -1,14 +1,26 @@
 ---
-toc: true
 layout: page
 title: Teaching
 permalink: /teaching/
 ---
+<!-- vscode-markdown-toc -->
+* 1. [Machine Learning with Applications (ROBT407)](#MachineLearningwithApplicationsROBT407)
+	* 1.1. [Course Description](#CourseDescription)
+	* 1.2. [Youtube lectures](#Youtubelectures)
+* 2. [Brain-Machine Interfaces (ROBT613)](#Brain-MachineInterfacesROBT613)
+	* 2.1. [Course Description](#CourseDescription-1)
+	* 2.2. [Youtube lectures](#Youtubelectures-1)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
 
 # FALL Semester 2020 
 
-## Machine Learning with Applications (ROBT407)
-### Course Description
+##  1. <a name='MachineLearningwithApplicationsROBT407'></a>Machine Learning with Applications (ROBT407)
+###  1.1. <a name='CourseDescription'></a>Course Description
 
 ROBT 407 introduces the students to the state-of-the-art analytical tools and methods used for machine learning. Topics include (semi) supervised and unsupervised learning, neural networks, deep learning, support vector machines, the design of machine learning experiments, decision trees, linear discrimination and kernel-based learning methods. The course also contains integrated term projects. Python-based machine learning packages (e.g., scikitLearn, Pytorch, Numpy, Scipy, Pandas, Matplotlib) and online databases will be used extensively.
  
@@ -66,13 +78,13 @@ areas:
 
 -   Use advanced machine learning tools for data analysis.
 
-### Youtube lectures 
-[![](http://img.youtube.com/vi/p04Dby32a7U/0.jpg)](http://www.youtube.com/watch?v=p04Dby32a7U "")
+###  1.2. <a name='Youtubelectures'></a>Youtube lectures 
+[![](http://img.youtube.com/vi/p04Dby32a7U/0.jpg)](http://www.youtube.com/watch?v=p04Dby32a7U)
 
 
 
-## Brain-Machine Interfaces (ROBT613)
-### Course Description
+##  2. <a name='Brain-MachineInterfacesROBT613'></a>Brain-Machine Interfaces (ROBT613)
+###  2.1. <a name='CourseDescription-1'></a>Course Description
 
 Brain-Machine Interface (BMI) systems are an emerging interdisciplinary field at the intersection of engineering, neuroscience, and medicine. It has brought promising new perspectives to human-machine interaction using brain activity. It provides users the capability to control applications such as assistive robotic technologies directly.  This course is an introduction to the fundamentals of BMI technology and discusses its applications including both invasive and non-invasive BMI systems for controlling user interfaces, prosthetic arms, wheelchairs, and robotic exoskeletons.  The course will also introduce other clinical applications of BMI technology for patients with locked-in syndrome and its utility in restoring movement and mobility in severely paralyzed persons.  Also, other nonclinical use of BMI technology will be studied with hands-on experiments/projects for applications such as security, alertness monitoring, entertainment, gaming, and education or human augmentation. 
 
@@ -113,6 +125,6 @@ areas:
 -   Use advanced machine learning tools for brain data analysis.
 
 
-### Youtube lectures 
-[![](http://img.youtube.com/vi/th4-hAOTETk/0.jpg)](http://www.youtube.com/watch?v=th4-hAOTETk "")
+###  2.2. <a name='Youtubelectures-1'></a>Youtube lectures 
+[![](http://img.youtube.com/vi/th4-hAOTETk/0.jpg)](http://www.youtube.com/watch?v=th4-hAOTETk)
 
