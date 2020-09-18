@@ -3,13 +3,16 @@ layout: page
 title: Teaching
 permalink: /teaching/
 ---
+
+# FALL Semester 2020 
+
 <!-- vscode-markdown-toc -->
-* 1. [Machine Learning with Applications (ROBT407)](#MachineLearningwithApplicationsROBT407)
-	* 1.1. [Course Description](#CourseDescription)
-	* 1.2. [Youtube lectures](#Youtubelectures)
-* 2. [Brain-Machine Interfaces (ROBT613)](#Brain-MachineInterfacesROBT613)
-	* 2.1. [Course Description](#CourseDescription-1)
-	* 2.2. [Youtube lectures](#Youtubelectures-1)
+1. [Machine Learning with Applications (ROBT407)](#MachineLearningwithApplicationsROBT407)
+	* [Course Description](#CourseDescription)
+	* [Youtube lectures](#Youtubelectures)
+2. [Brain-Machine Interfaces (ROBT613)](#Brain-MachineInterfacesROBT613)
+	* [Course Description](#CourseDescription-1)
+	* [Youtube lectures](#Youtubelectures-1)
 
 <!-- vscode-markdown-toc-config
 	numbering=true
@@ -17,7 +20,7 @@ permalink: /teaching/
 	/vscode-markdown-toc-config -->
 <!-- /vscode-markdown-toc -->
 
-# FALL Semester 2020 
+---
 
 ##  1. <a name='MachineLearningwithApplicationsROBT407'></a>Machine Learning with Applications (ROBT407)
 ###  1.1. <a name='CourseDescription'></a>Course Description
@@ -83,6 +86,7 @@ areas:
 
 
 
+--- 
 ##  2. <a name='Brain-MachineInterfacesROBT613'></a>Brain-Machine Interfaces (ROBT613)
 ###  2.1. <a name='CourseDescription-1'></a>Course Description
 
@@ -128,3 +132,4 @@ areas:
 ###  2.2. <a name='Youtubelectures-1'></a>Youtube lectures 
 [![](http://img.youtube.com/vi/th4-hAOTETk/0.jpg)](http://www.youtube.com/watch?v=th4-hAOTETk)
 
+--- 
