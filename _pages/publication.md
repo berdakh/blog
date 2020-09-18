@@ -1,10 +1,14 @@
----
 layout: page
 title: Publications
 permalink: /publication/
 ---
 
-## Patents 
+* 1. [Patents](#Patents)
+* 2. [Journal Publications](#JournalPublications)
+* 3. [Conference Publications](#ConferencePublications)
+
+
+##  1. <a name='Patents'></a>Patents 
 * J. An, S.H. Jin, S.H. Lee, J.I. Moon <u>B. Abibullaev</u>, J.H. Ahn and
 G.H. Jang. REHABILITATION TRAINING SYSTEM AND METHOD. :
 9,081,890,Washington, DC: United States. Patent and Trademark Office,
@@ -18,7 +22,7 @@ number*: 14049302, 09-OCT-2013, United States,
 
 
 
-## Journal Publications 
+##  2. <a name='JournalPublications'></a>Journal Publications 
 
 * <u>B. Abibullaev</u>, I. and A. Zollanvari. A Brute-force CNN Model
 Selection for Accurate Classification of Sensorimotor Rhythms in BCIs
@@ -92,7 +96,7 @@ temporal lobe epileptic EEGs using the best basis wavelet functions. ,
 34(4):755–765, 2010. Springer.
 
 
-## Conference Publications 
+##  3. <a name='ConferencePublications'></a>Conference Publications 
 
 * A. Oleinikov, <u>B. Abibullaev</u>, M. Folgheraiter, "On the Classification of Electromyography Signals to Control a Four Degree-Of-Freedom Prosthetic Device," in 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
 
