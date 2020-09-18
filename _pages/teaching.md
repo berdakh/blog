@@ -37,13 +37,13 @@ ROBT 407 introduces the students to the state-of-the-art analytical tools and me
     learning book with code, math, and discussions*, Alex J. Smola et
     al. Carnegie Mellon University, and Amazon, https://d2l.ai/
 
-Prerequisites/Corequisites
+### Prerequisites/Corequisites
 ==========================
 
 Prerequisites: MATH 273 Linear Algebra with Applications, MATH 321
 Probability, (must be completed with a grade of "C-" or better);
 
-Course Objectives
+### Course Objectives
 =================
 
 Successful students:
@@ -63,7 +63,7 @@ Successful students:
     including linear/logistic regression, kernel methods, neural
     networks, and other methods.
 
-Course learning outcomes
+### Course learning outcomes
 ========================
 
 At the completion of this course, students will know the following
@@ -81,14 +81,14 @@ areas:
 
 -   Use advanced machine learning tools for data analysis.
 
-###  1.2. <a name='Youtubelectures'></a>Youtube lectures 
+### <a name='Youtubelectures'></a>Youtube lectures 
 [![](http://img.youtube.com/vi/p04Dby32a7U/0.jpg)](http://www.youtube.com/watch?v=p04Dby32a7U)
 
 
 
 --- 
 ##  2. <a name='Brain-MachineInterfacesROBT613'></a>Brain-Machine Interfaces (ROBT613)
-###  2.1. <a name='CourseDescription-1'></a>Course Description
+###  <a name='CourseDescription-1'></a>Course Description
 
 Brain-Machine Interface (BMI) systems are an emerging interdisciplinary field at the intersection of engineering, neuroscience, and medicine. It has brought promising new perspectives to human-machine interaction using brain activity. It provides users the capability to control applications such as assistive robotic technologies directly.  This course is an introduction to the fundamentals of BMI technology and discusses its applications including both invasive and non-invasive BMI systems for controlling user interfaces, prosthetic arms, wheelchairs, and robotic exoskeletons.  The course will also introduce other clinical applications of BMI technology for patients with locked-in syndrome and its utility in restoring movement and mobility in severely paralyzed persons.  Also, other nonclinical use of BMI technology will be studied with hands-on experiments/projects for applications such as security, alertness monitoring, entertainment, gaming, and education or human augmentation. 
 
@@ -102,7 +102,7 @@ The course will be delivered in the form of mixed lectures with case studies and
  
 
  
-Course Objectives
+### Course Objectives
 =================
 
 Successful students:
@@ -117,7 +117,7 @@ Successful students:
 4.  Present the results through seminar discussions and reports
 
 
-Course learning outcomes
+### Course learning outcomes
 ========================
 
 At the completion of this course, students will know the following
@@ -129,7 +129,7 @@ areas:
 -   Use advanced machine learning tools for brain data analysis.
 
 
-###  2.2. <a name='Youtubelectures-1'></a>Youtube lectures 
+### <a name='Youtubelectures-1'></a>Youtube lectures 
 [![](http://img.youtube.com/vi/th4-hAOTETk/0.jpg)](http://www.youtube.com/watch?v=th4-hAOTETk)
 
 --- 
