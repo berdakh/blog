@@ -4,12 +4,12 @@ title: Publications
 permalink: /publication/
 ---
 
-1. [Patents](#Patents)
-2. [Journal Publications](#JournalPublications)
-3. [Conference Publications](#ConferencePublications)
+- [Patents](#Patents)
+- [Journal Publications](#JournalPublications)
+- [Conference Publications](#ConferencePublications)
 
 
-##  1. <a name='Patents'></a>Patents 
+##  <a name='Patents'></a>Patents 
 * J. An, S.H. Jin, S.H. Lee, J.I. Moon <u>B. Abibullaev</u>, J.H. Ahn and
 G.H. Jang. REHABILITATION TRAINING SYSTEM AND METHOD. :
 9,081,890,Washington, DC: United States. Patent and Trademark Office,
@@ -23,7 +23,7 @@ number*: 14049302, 09-OCT-2013, United States,
 
 
 
-##  2. <a name='JournalPublications'></a>Journal Publications 
+##  <a name='JournalPublications'></a>Journal Publications 
 
 * <u>B. Abibullaev</u>, I. and A. Zollanvari. A Brute-force CNN Model
 Selection for Accurate Classification of Sensorimotor Rhythms in BCIs
@@ -49,14 +49,13 @@ an EEG-based brain machine interface (BMI) to an upper-limb exoskeleton
 for stroke survivors. , vol. 10, March, 2016.
 
 * <u>B Abibullaev</u>, J An, SH Lee, JI Moon. Design and Evaluation of
-Action Observation and Motor Imagery based BCIs using NIRS
-*Measurement*,vol. 98, pp. 250-261, 2017, Elsevier.
+Action Observation and Motor Imagery based BCIs using NIRS. 
+*Measurement*, vol. 98, pp. 250-261, 2017, Elsevier.
 
 * J.G. Cruz-Garza, Z.R. Hernandez, T. Tse, E. Caducoy, <u>B.
 Abibullaev</u>, J.L. Contreras-Vidal. A novel experimental and
 analytical approach to the multimodal neural decoding of intent during
-social interaction in freely-behaving human infants. , doi:
-10.3791/53406, October, 2015.
+social interaction in freely-behaving human infants; *JoVE (Journal of Visualized Experiments)*, doi:10.3791/53406, October, 2015.
 
 * C.H. Park, J.H Seo, D. Kim, <u>B. Abibullaev</u>, H. Kwon, Y.H. Lee,
 M.Y. Kim, K. Kim, J.S. Kim, E.Y. Joo, S.B. Hong, (2015, Feb). Source
@@ -66,7 +65,7 @@ and Magnetoencephalography. *Journal of Clinical Neurology*, 2015 Feb
 
 * <u>B. Abibullaev</u>, J An, S.H. Jin, and J.I. Moon. Classification of
 brain hemodynamic signals arising from visual action observation tasks
-for brain-computer interfaces : An fNIRS study, 2014. Elsevier.
+for brain-computer interfaces: An fNIRS study, *Measurement*, 2014. Elsevier.
 
 * <u>B. Abibullaev</u>, J An, S.H. Lee, S.H. Jin, and J.I. Moon.
 Minimizing inter-subject variability in FNIRS based brain computer
@@ -75,29 +74,28 @@ Engineering Physics*, 2013. Elsevier.
 
 * <u>B. Abibullaev</u> and J. An. Classification of frontal cortex
 hemodynamic response during cognitive tasks using wavelet transforms and
-machine learning algorithms. , 34(10):1394–410, 2012. Elsevier.
+machine learning algorithms. *Medical Engineering Physics*, 34(10):1394–410, 2012. Elsevier.
 
 * <u>B. Abibullaev</u> and J. An. Decision support algorithm for diagnosis
-of ADHD disorder using electroencephalograms. , 36(4):2675–2688, 2011.
+of ADHD disorder using electroencephalograms. *Journal of Medical Systems*, 36(4):2675–2688, 2011.
 Springer.
 
 * <u>B. Abibullaev</u>, J. An, and J.I. Moon. Neural network
-classification of brain hemodynamic responses from four mental tasks. ,
-5(4):340–359, 2011. Taylor & Francis.
+classification of brain hemodynamic responses from four mental tasks. *International Journal of Optomechatronics*, 5(4):340–359, 2011. Taylor & Francis.
 
 * <u>B. Abibullaev</u> and H.D. Seo. A new QRS detection method using
-wavelets and artificial neural networks. , 35(4):683–691, 2011. Springer.
+wavelets and artificial neural networks. *Journal of Medical Systems*, 35(4):683–691, 2011. Springer.
 
 * <u>B. Abibullaev</u>, M.S. Kim, and H.D. Seo. Epileptic spike detection
 using continuous wavelet transforms and artificial neural networks. ,
-8(1):33–48, 2010. Worldscientific.
+8(1):33–48, 2010. *International journal of wavelets, multiresolution and information processing*, Worldscientific.
 
 * <u>B. Abibullaev</u>, M.S. Kim, and H.D. Seo. Seizure detection in
-temporal lobe epileptic EEGs using the best basis wavelet functions. ,
+temporal lobe epileptic EEGs using the best basis wavelet functions. *Journal of Medical Systems*, 
 34(4):755–765, 2010. Springer.
 
 
-##  3. <a name='ConferencePublications'></a>Conference Publications 
+##  <a name='ConferencePublications'></a>Conference Publications 
 
 * A. Oleinikov, <u>B. Abibullaev</u>, M. Folgheraiter, "On the Classification of Electromyography Signals to Control a Four Degree-Of-Freedom Prosthetic Device," in 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
 
