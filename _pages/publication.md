@@ -25,7 +25,7 @@ number*: 14049302, 09-OCT-2013, United States,
 
 ##  <a name='JournalPublications'></a>Journal Publications 
 
-* <u>B. Abibullaev</u>, I. and A. Zollanvari. A Brute-force CNN Model
+* <u>B. Abibullaev</u>, I.Dolzhikova and A. Zollanvari. A Brute-force CNN Model
 Selection for Accurate Classification of Sensorimotor Rhythms in BCIs
 *IEEE Access*, DOI: 10.1109/ACCESS.2020.2997681, 2020.
 
