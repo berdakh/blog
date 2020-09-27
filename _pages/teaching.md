@@ -1,8 +1,3 @@
----
-layout: page
-title: Teaching
-permalink: /teaching/
----
 
 # FALL Semester 2020 
 
