@@ -4,9 +4,9 @@ title: Publications
 permalink: /publication/
 ---
 
-- [Patents](#Patents)
-- [Journal Publications](#JournalPublications)
-- [Conference Publications](#ConferencePublications)
+- [<a name='Patents'></a>Patents](#patents)
+- [<a name='JournalPublications'></a>Journal Publications](#journal-publications)
+- [<a name='ConferencePublications'></a>Conference Publications](#conference-publications)
 
 
 ##  <a name='Patents'></a>Patents 
@@ -26,41 +26,41 @@ number*: 14049302, 09-OCT-2013, United States,
 ##  <a name='JournalPublications'></a>Journal Publications 
 
 1. <u>B. Abibullaev</u>, I. Dolzhikova and A. Zollanvari. A Brute-force CNN Model
-Selection for Accurate Classification of Sensorimotor Rhythms in BCIs
+Selection for Accurate Classification of Sensorimotor Rhythms in BCIs,
 *IEEE Access*, DOI: 10.1109/ACCESS.2020.2997681, 2020.
 
 1. A. Zollanvari, M. Abdirash, A. Dadlani and <u>B. Abibullaev</u>.
 Asymptotically Bias-Corrected Regularized Linear Discriminant Analysis
-for Cost-Sensitive Binary Classification *IEEE Signal Processing
+for Cost-Sensitive Binary Classification, *IEEE Signal Processing
 Letters*, 2019.
 
 1. <u>B. Abibullaev</u> and A. Zollanvari. Learning Discriminative
-Spatiospectral Features of ERPs for Accurate Brain-Computer Interfaces
+Spatiospectral Features of ERPs for Accurate Brain-Computer Interfaces,
 *IEEE Journal of Biomedical and Health Informatics*, vol. 98, pp.1-12, 2019.
 
 1. <u>B. Abibullaev</u>, A. Zollanvari, B. Saduanov, and T. Alizadeh.
 Design and Optimization of a BCI-Driven Telepresence Robot Through
-Programming by Demonstration. *IEEE Access*, 2019, vol. 7.
+Programming by Demonstration, *IEEE Access*, 2019, vol. 7.
 
 1. N.A. Bhagat, A. Venkatakrishnan, <u>B. Abibullaev</u>, E.J. Artz, N.
 Yozbatiran, A. Blank, J. French, C. Karmonik, R.G.Grossman, M.K
 O’Malley, G. Francisco, J.L. Contreras-Vidal. Design and optimization of
 an EEG-based brain machine interface (BMI) to an upper-limb exoskeleton
-for stroke survivors. , vol. 10, March, 2016.
+for stroke survivors, vol. 10, March, 2016.
 
 1. <u>B Abibullaev</u>, J An, SH Lee, JI Moon. Design and Evaluation of
-Action Observation and Motor Imagery based BCIs using NIRS. 
+Action Observation and Motor Imagery based BCIs using NIRS, 
 *Measurement*, vol. 98, pp. 250-261, 2017, Elsevier.
 
 1. J.G. Cruz-Garza, Z.R. Hernandez, T. Tse, E. Caducoy, <u>B.
 Abibullaev</u>, J.L. Contreras-Vidal. A novel experimental and
 analytical approach to the multimodal neural decoding of intent during
-social interaction in freely-behaving human infants; *JoVE (Journal of Visualized Experiments)*, doi:10.3791/53406, October, 2015.
+social interaction in freely-behaving human infants, *JoVE (Journal of Visualized Experiments)*, doi:10.3791/53406, October, 2015.
 
 1. C.H. Park, J.H Seo, D. Kim, <u>B. Abibullaev</u>, H. Kwon, Y.H. Lee,
 M.Y. Kim, K. Kim, J.S. Kim, E.Y. Joo, S.B. Hong, (2015, Feb). Source
 Imaging in Partial Epilepsy in Comparison with Presurgical Evaluation
-and Magnetoencephalography. *Journal of Clinical Neurology*, 2015 Feb
+and Magnetoencephalography, *Journal of Clinical Neurology*, 2015 Feb
 17, 11:e12.
 
 1. <u>B. Abibullaev</u>, J An, S.H. Jin, and J.I. Moon. Classification of
@@ -74,21 +74,20 @@ Engineering Physics*, 2013. Elsevier.
 
 1. <u>B. Abibullaev</u> and J. An. Classification of frontal cortex
 hemodynamic response during cognitive tasks using wavelet transforms and
-machine learning algorithms. *Medical Engineering Physics*, 34(10):1394–410, 2012. Elsevier.
+machine learning algorithms, *Medical Engineering Physics*, 34(10):1394–410, 2012. Elsevier.
 
 1. <u>B. Abibullaev</u> and J. An. Decision support algorithm for diagnosis
-of ADHD disorder using electroencephalograms. *Journal of Medical Systems*, 36(4):2675–2688, 2011.
+of ADHD disorder using electroencephalograms, *Journal of Medical Systems*, 36(4):2675–2688, 2011.
 Springer.
 
 1. <u>B. Abibullaev</u>, J. An, and J.I. Moon. Neural network
-classification of brain hemodynamic responses from four mental tasks. *International Journal of Optomechatronics*, 5(4):340–359, 2011. Taylor & Francis.
+classification of brain hemodynamic responses from four mental tasks, *International Journal of Optomechatronics*, 5(4):340–359, 2011. Taylor & Francis.
 
 1. <u>B. Abibullaev</u> and H.D. Seo. A new QRS detection method using
 wavelets and artificial neural networks. *Journal of Medical Systems*, 35(4):683–691, 2011. Springer.
 
 1. <u>B. Abibullaev</u>, M.S. Kim, and H.D. Seo. Epileptic spike detection
-using continuous wavelet transforms and artificial neural networks. ,
-8(1):33–48, 2010. *International journal of wavelets, multiresolution and information processing*, Worldscientific.
+using continuous wavelet transforms and artificial neural networks, 8(1):33–48, 2010. *International journal of wavelets, multiresolution and information processing*, Worldscientific.
 
 1. <u>B. Abibullaev</u>, M.S. Kim, and H.D. Seo. Seizure detection in
 temporal lobe epileptic EEGs using the best basis wavelet functions. *Journal of Medical Systems*, 
