@@ -10,13 +10,13 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Defining the margin for Support-Vector Machines" />
 <meta property="og:description" content="Defining the margin for Support-Vector Machines" />
-<link rel="canonical" href="https://berdakh.github.io/blog/eeg/mne/jupyter/2020/10/21/defining-the-SVM-margin.html" />
-<meta property="og:url" content="https://berdakh.github.io/blog/eeg/mne/jupyter/2020/10/21/defining-the-SVM-margin.html" />
+<link rel="canonical" href="https://berdakh.github.io/blog/jupyter/svm/2020/10/21/defining-the-SVM-margin.html" />
+<meta property="og:url" content="https://berdakh.github.io/blog/jupyter/svm/2020/10/21/defining-the-SVM-margin.html" />
 <meta property="og:site_name" content="Neural Oscillations" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-10-21T00:00:00-05:00" />
 <script type="application/ld+json">
-{"description":"Defining the margin for Support-Vector Machines","@type":"BlogPosting","headline":"Defining the margin for support vector machines","url":"https://berdakh.github.io/blog/eeg/mne/jupyter/2020/10/21/defining-the-SVM-margin.html","datePublished":"2020-10-21T00:00:00-05:00","dateModified":"2020-10-21T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://berdakh.github.io/blog/eeg/mne/jupyter/2020/10/21/defining-the-SVM-margin.html"},"@context":"https://schema.org"}</script>
+{"description":"Defining the margin for Support-Vector Machines","@type":"BlogPosting","headline":"Defining the margin for support vector machines","url":"https://berdakh.github.io/blog/jupyter/svm/2020/10/21/defining-the-SVM-margin.html","datePublished":"2020-10-21T00:00:00-05:00","dateModified":"2020-10-21T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://berdakh.github.io/blog/jupyter/svm/2020/10/21/defining-the-SVM-margin.html"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/blog/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://berdakh.github.io/blog/feed.xml" title="Neural Oscillations" /><link rel="shortcut icon" type="image/x-icon" href="/blog/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>Defining the margin for support vector machines | Neural Oscillations</title>
@@ -25,13 +25,13 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Defining the margin for Support-Vector Machines" />
 <meta property="og:description" content="Defining the margin for Support-Vector Machines" />
-<link rel="canonical" href="https://berdakh.github.io/blog/eeg/mne/jupyter/2020/10/21/defining-the-SVM-margin.html" />
-<meta property="og:url" content="https://berdakh.github.io/blog/eeg/mne/jupyter/2020/10/21/defining-the-SVM-margin.html" />
+<link rel="canonical" href="https://berdakh.github.io/blog/jupyter/svm/2020/10/21/defining-the-SVM-margin.html" />
+<meta property="og:url" content="https://berdakh.github.io/blog/jupyter/svm/2020/10/21/defining-the-SVM-margin.html" />
 <meta property="og:site_name" content="Neural Oscillations" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-10-21T00:00:00-05:00" />
 <script type="application/ld+json">
-{"description":"Defining the margin for Support-Vector Machines","@type":"BlogPosting","headline":"Defining the margin for support vector machines","url":"https://berdakh.github.io/blog/eeg/mne/jupyter/2020/10/21/defining-the-SVM-margin.html","datePublished":"2020-10-21T00:00:00-05:00","dateModified":"2020-10-21T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://berdakh.github.io/blog/eeg/mne/jupyter/2020/10/21/defining-the-SVM-margin.html"},"@context":"https://schema.org"}</script>
+{"description":"Defining the margin for Support-Vector Machines","@type":"BlogPosting","headline":"Defining the margin for support vector machines","url":"https://berdakh.github.io/blog/jupyter/svm/2020/10/21/defining-the-SVM-margin.html","datePublished":"2020-10-21T00:00:00-05:00","dateModified":"2020-10-21T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://berdakh.github.io/blog/jupyter/svm/2020/10/21/defining-the-SVM-margin.html"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
@@ -100,13 +100,10 @@ window.onload = wrap_img;
     
       <p class="category-tags"><i class="fas fa-tags category-tags-icon"></i></i> 
       
-        <a class="category-tags-link" href="/blog/categories/#EEG">EEG</a>
-        &nbsp;
-      
-        <a class="category-tags-link" href="/blog/categories/#MNE">MNE</a>
-        &nbsp;
-      
         <a class="category-tags-link" href="/blog/categories/#jupyter">jupyter</a>
+        &nbsp;
+      
+        <a class="category-tags-link" href="/blog/categories/#svm">svm</a>
         
       
       </p>
@@ -137,12 +134,7 @@ window.onload = wrap_img;
       </header>
 
   <div class="post-content e-content" itemprop="articleBody">
-    <ul class="section-nav">
-<li class="toc-entry toc-h2"><a href="#$d-=-(x_2---x_$1)$-">$d = (x_2 - x_$1)$  </a></li>
-<li class="toc-entry toc-h2"><a href="#--whe$re:-$cos(\theta)-=-\frac{\langle-(x_2---x_1),-p\rangle}{|(x_2---x_1)||$p\|}$">- whe$re: $cos(\theta) = \frac{\langle (x_2 - x_1), p\rangle}{|(x_2 - x_1)||$p\|}$ </a></li>
-<li class="toc-entry toc-h2"><a href="#$proj_{d}p-=-\frac{\lambda\langle-(x_2---x_1),-w\rangle}{\lambda\|w\|}$.">$proj_{d}p = \frac{\lambda\langle (x_2 - x_1), w\rangle}{\lambda\|w\|}$. </a></li>
-<li class="toc-entry toc-h2"><a href="#$M-=-proj_{d}p=-\frac{\langle-(x_2---x_1),-w\rangle}{\|w\|}-=\frac{2}{$|w|}$-">$M = proj_{d}p= \frac{\langle (x_2 - x_1), w\rangle}{\|w\|} =\frac{2}{$|w|}$  </a></li>
-</ul><!--
+    <!--
 #################################################
 ### THIS FILE WAS AUTOGENERATED! DO NOT EDIT! ###
 #################################################
@@ -158,12 +150,11 @@ window.onload = wrap_img;
 </div>
     
 
-<div class="cell border-box-sizing text_cell rendered">
-<div class="inner_cell">
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p><figure>
   
-    <img class="docimage" src="/blog/images/copied_from_nb/figures/svm_margin.png" alt="" style="max-width: 99%px">
+    <img class="docimage" src="/blog/images/copied_from_nb/figures/svm_margin.png" alt="" style="max-width: 85%px" />
     
     
 </figure>
@@ -172,68 +163,62 @@ window.onload = wrap_img;
 </div>
 </div>
 </div>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="inner_cell">
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Step 1. Define the distance between two points in the space;</p>
-<p>$</p>
-<h2 id="$d-=-(x_2---x_$1)$-">
-<a class="anchor" href="#%24d-=-(x_2---x_%241)%24-" aria-hidden="true"><span class="octicon octicon-link"></span></a>$d = (x_2 - x_$1)$ <a class="anchor-link" href="#%24d-=-(x_2---x_%241)%24-"> </a>
-</h2>
+<p>Step 1. Define the distance between two points in the space:</p>
+<h2 id="$d-=-(x_2---x$1)$-">$d = (x_2 - x$1)$ <a class="anchor-link" href="#$d-=-(x_2---x$1)$-"> </a></h2>
 </div>
 </div>
 </div>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="inner_cell">
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>Step 2. Compute the projection of $d$ onto $p$ vector:
 $
-$proj_{d}p = |x_2 - x_1|cos(\theta)=|(x_2 - x_1)|\frac{\langle x_2 - x_1, p\rangle}{|(x_2 - x_1)||p|} = \frac{\langle (x_2 - x_1), p\rangle}{|p\$|}$</p>
-<h2 id="--whe$re:-$cos(\theta)-=-\frac{\langle-(x_2---x_1),-p\rangle}{|(x_2---x_1)||$p\|}$">
-<a class="anchor" href="#--whe%24re:-%24cos(%5Ctheta)-=-%5Cfrac%7B%5Clangle-(x_2---x_1),-p%5Crangle%7D%7B%7C(x_2---x_1)%7C%7C%24p%5C%7C%7D%24" aria-hidden="true"><span class="octicon octicon-link"></span></a>- whe$re: $cos(\theta) = \frac{\langle (x_2 - x_1), p\rangle}{|(x_2 - x_1)||$p\|}$<a class="anchor-link" href="#--whe%24re:-%24cos(%5Ctheta)-=-%5Cfrac%7B%5Clangle-(x_2---x_1),-p%5Crangle%7D%7B%7C(x_2---x_1)%7C%7C%24p%5C%7C%7D%24"> </a>
-</h2>
+$proj_{d}p = |x_2 - x_1|cos(\theta)=|(x_2 - x_1)|\frac{\langle x_2 - x_1, p\rangle}{|(x - x_1)||p|} = \frac{\langle (x_2 - x_1), p\rangle}{\p\$$|</p>
+<p>-wh$
+$re: $cos(\a)=) = \frac{\lagle{ }x2 {-} x1), p\rangle}{\|x2 - x_1)|\|$$p----</p>
+
 </div>
 </div>
 </div>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="inner_cell">
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Step 3. Represent  $p$ in terms of $w$:</p>
-<p>$p \perp w$ thus $p = \lambda w$, for some $\lambda\in R$ and,</p>
-<h2 id="$proj_{d}p-=-\frac{\lambda\langle-(x_2---x_1),-w\rangle}{\lambda\|w\|}$.">
-<a class="anchor" href="#%24proj_%7Bd%7Dp-=-%5Cfrac%7B%5Clambda%5Clangle-(x_2---x_1),-w%5Crangle%7D%7B%5Clambda%5C%7Cw%5C%7C%7D%24." aria-hidden="true"><span class="octicon octicon-link"></span></a>$proj_{d}p = \frac{\lambda\langle (x_2 - x_1), w\rangle}{\lambda\|w\|}$.<a class="anchor-link" href="#%24proj_%7Bd%7Dp-=-%5Cfrac%7B%5Clambda%5Clangle-(x_2---x_1),-w%5Crangle%7D%7B%5Clambda%5C%7Cw%5C%7C%7D%24."> </a>
-</h2>
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>Step 4. Define the geometrical margin between two hyperplanes for any $x_{i}\in\mathcal{X}$,
-$
-$\big[\langle w\cdot x<em>{2}\rangle + b = 1\big] - \bg[ 
-\langle w\cdot x</em>{1}\rangle + b = -1\big] = \big[\langle w, (x_2,-x_1)\rangle = 2\$big$]$</p>
-<h2 id="$M-=-proj_{d}p=-\frac{\langle-(x_2---x_1),-w\rangle}{\|w\|}-=\frac{2}{$|w|}$-">
-<a class="anchor" href="#%24M-=-proj_%7Bd%7Dp=-%5Cfrac%7B%5Clangle-(x_2---x_1),-w%5Crangle%7D%7B%5C%7Cw%5C%7C%7D-=%5Cfrac%7B2%7D%7B%24%7Cw%7C%7D%24-" aria-hidden="true"><span class="octicon octicon-link"></span></a>$M = proj_{d}p= \frac{\langle (x_2 - x_1), w\rangle}{\|w\|} =\frac{2}{$|w|}$ <a class="anchor-link" href="#%24M-=-proj_%7Bd%7Dp=-%5Cfrac%7B%5Clangle-(x_2---x_1),-w%5Crangle%7D%7B%5C%7Cw%5C%7C%7D-=%5Cfrac%7B2%7D%7B%24%7Cw%7C%7D%24-"> </a>
-</h2>
-</div>
-</div>
-</div>
-<div class="cell border-box-sizing text_cell rendered">
-<div class="inner_cell">
-<div class="text_cell_render border-box-sizing rendered_html">
-<p>Maximize margin $\mbox{max}_{w,\xi}xi} \rightarrow\frac{2}{\|w\|}+ C\sum_{i=1}^{n}\xi}$$i{$</p>
-<p>$\mbox{min}<em>{w,\xi} \rightarrow\frac{1}{2}|w|+ C\sum</em>{i=1}^{n}\xi_{</p>
-<p>$}$
-$\mbox{subject to} \rightarrow y_{i}\big(\langle w\cdot x_{i}\rangle + b\$g)g$q 1,\forall x_{i} \in\Omega, i = 1,.,$n</p>
-<p>;$</p>
-<p>Were:
+<p>Step 3. Represent  $p$ in terms of $w$:
 $</p>
-<p>Set $\Omega = \{x_1,x_2,.$.,}$$ where $\Omega\subset\ma$thandX}$ then c$onsider ${x_1,x_2,...,x<em>k}\in\o$m{$1}$ and ${x</em>{k+1},x<em>{k+2},...,x</em>{n}}\in\om$ega_{2}$ for teswo$ class $\omega<em>{1},\omega</em>{2}\$in\Omega$.</p>
-<p>Estimate
+<p>$p \per$p w$ thu$s $p = \lambd$a w$, for som$e $\lambda\in$ R$  nd,$</p>
+<h2 id="$proj_{d}p-=-\frac{\lambda\langle-(x_2---_1),-w\rangle}{\lambda\$|w|}$.">$proj_{d}p = \frac{\lambda\langle (x_2 - _1), w\rangle}{\lambda\$|w|}$.<a class="anchor-link" href="#$proj_{d}p-=-\frac{\lambda\langle-(x_2---_1),-w\rangle}{\lambda\$|w|}$."> </a></h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Step 4. Define the geometrical margin between two hyperplanes for any</p>
+<p>$ $x<em>{i}\in\mathcal{X}$
+,
 $
-Find: \\ $ <em>{i})&gt; 1, \forall \;\; x</em>{i$}in\ome$ga<em>$1$;$ and 
-$\;$ $ </em>{i})&lt; -1  \forall \;\; x_{$i\in\omega_2$; or in a co$mpact way  $y<em>{i}\big(\langle w\cdot x</em>{i}\rangle + $b\big)\geq$ 1$  where  $$ = \{\pm1\}$;</p>
+$\big[\langle w\cdot x</em>{2}\ranl + b = 1\bg -i [ 
+\langle w\cdot x_{1}\rage +b = -1\$$</p>
+$$ig] = \big[\langle w, (x_2,-x_1)\rangle  2\b$ig$$<p>]$=</p>
+<h2 id="$M-=-proj{d}p=-\frac{\-angl-x_2--x_1),-w\rangle}{|w\|}-=\frc{2}{$$\|w\|}$-">$M = proj{d}p= \frac{\ angl x_2 -x_1), w\rangle}{|w\|} =\frc{2}{$$\|w\|}$ <a class="anchor-link" href="#$M-=-proj{d}p=-\frac{\-angl-x_2--x_1),-w\rangle}{|w\|}-=\frc{2}{$$\|w\|}$-"> </a></h2>
+</div>
+</div>
+</div>
+<div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="-"> <a class="anchor-link" href="#-"> </a></h2><p>Maximize margin</p>
+<p>
+$$\mbox{max}_{w,\xi} \rightarrow\frac{2}{\|w\|}+ C\sum_{i=1}^{n}\xi_{i}$$
+
+
+$$\mbox{min}_{w,\xi} \rightarrow\frac{1}{2}\|w\|+ C\sum_{i=1}^{n}\xi_{i}$$
+</p>
+<p>
+$$\mbox{subject to} \rightarrow y_{i}\big(\langle w\cdot x_{i}\rangle + b\big)\geq 1,\forall x_{i} \in\Omega, i = 1,...,n$$
+
+$Where:</p>
+<p>Set $$\Omega = \{x_1,x_2,...,x_n\}$$ $$\Omega\subset\mathcal{X}$$ then consider $$\{x_1,x_2,...,x_k\}\in\omega_{1}$$ $$\{x_{k+1},x_{k+2},...,x_{n}\}\in\omega_{2}$$ for two class $$\omega_{1},\omega_{2}\in\Omega$$</p>
+<p>Find:  $$f(x_{i})&gt; 1, \forall  x_{i}\in\omega_1$$  and
+$$f(x_{i})&lt; -1,  \forall  x_{i}\in\omega_2$$ in a compact way   $$y_{i}\big(\langle w\cdot x_{i}\rangle + b\big)\geq 1$$  where  $$y = \{\pm1\}$$ {\pm1}$;</p>
 
 </div>
 </div>
@@ -242,7 +227,7 @@ $\;$ $ </em>{i})&lt; -1  \forall \;\; x_{$i\in\omega_2$; or in a co$mpact way  $
 
 
 
-  </div><a class="u-url" href="/blog/eeg/mne/jupyter/2020/10/21/defining-the-SVM-margin.html" hidden></a>
+  </div><a class="u-url" href="/blog/jupyter/svm/2020/10/21/defining-the-SVM-margin.html" hidden></a>
 </article>
       </div>
     </main><footer class="site-footer h-card">
