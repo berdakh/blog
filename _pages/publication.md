@@ -9,15 +9,16 @@ permalink: /publication/
 - [<a name='ConferencePublications'></a>Conference Publications](#conference-publications)
 
 
-##  <a name='Patents'></a>Patents 
+##  <a name='Patents'></a>Patents
+
 1. J. An, S.H. Jin, S.H. Lee, J.I. Moon, <u>B. Abibullaev</u>, J.H. Ahn and
-G.H. Jang. REHABILITATION TRAINING SYSTEM AND METHOD. :
+G.H. Jang. Rehabilitation Training System and Method. :
 9,081,890,Washington, DC: United States. Patent and Trademark Office,
 2015 (https://www.google.com/patents/US9081890).
 
 1. J. An, S.H. Jin, S.H. Lee, J.I. Moon, <u>B. Abibullaev</u>, J.H. Ahn and
-G.H. Jang. Self-directed rehabilitation training method combining brain
-signals and functional electro-stimulation. : 17077057, *Application
+G.H. Jang. Self-directed Rehabilitation Training Method Combining Brain
+Signals and Functional Electrostimulation. : 17077057, *Application
 number*: 14049302, 09-OCT-2013, United States,
 (http://www.google.com/patents/US20140200632).
 
@@ -56,7 +57,7 @@ Action Observation and Motor Imagery based BCIs using NIRS,
 1. J.G. Cruz-Garza, Z.R. Hernandez, T. Tse, E. Caducoy, <u>B.
 Abibullaev</u>, J.L. Contreras-Vidal. A novel experimental and
 analytical approach to the multimodal neural decoding of intent during
-social interaction in freely-behaving human infants, *JoVE (Journal of Visualized Experiments)*, doi:10.3791/53406, October, 2015.
+social interaction in freely-behaving human infants, *Journal of Visualized Experiments*, doi:10.3791/53406, October, 2015.
 
 1. C.H. Park, J.H Seo, D. Kim, <u>B. Abibullaev</u>, H. Kwon, Y.H. Lee,
 M.Y. Kim, K. Kim, J.S. Kim, E.Y. Joo, S.B. Hong, (2015, Feb). Source
@@ -70,16 +71,14 @@ for brain-computer interfaces: An fNIRS study, *Measurement*, 2014. Elsevier.
 
 1. <u>B. Abibullaev</u>, J An, S.H. Lee, S.H. Jin, and J.I. Moon.
 Minimizing inter-subject variability in FNIRS based brain computer
-interfaces via multiple-kernel support vector learning. *Medical
-Engineering Physics*, 2013. Elsevier.
+interfaces via multiple-kernel support vector learning. *Medical Engineering Physics*, 2013. Elsevier.
 
 1. <u>B. Abibullaev</u> and J. An. Classification of frontal cortex
 hemodynamic response during cognitive tasks using wavelet transforms and
 machine learning algorithms, *Medical Engineering Physics*, 34(10):1394–410, 2012. Elsevier.
 
 1. <u>B. Abibullaev</u> and J. An. Decision support algorithm for diagnosis
-of ADHD disorder using electroencephalograms, *Journal of Medical Systems*, 36(4):2675–2688, 2011.
-Springer.
+of ADHD disorder using electroencephalograms, *Journal of Medical Systems*, 36(4):2675–2688, 2011. Springer.
 
 1. <u>B. Abibullaev</u>, J. An, and J.I. Moon. Neural network
 classification of brain hemodynamic responses from four mental tasks, *International Journal of Optomechatronics*, 5(4):340–359, 2011. Taylor & Francis.
@@ -91,8 +90,7 @@ wavelets and artificial neural networks. *Journal of Medical Systems*, 35(4):683
 using continuous wavelet transforms and artificial neural networks, 8(1):33–48, 2010. *International journal of wavelets, multiresolution and information processing*, Worldscientific.
 
 1. <u>B. Abibullaev</u>, M.S. Kim, and H.D. Seo. Seizure detection in
-temporal lobe epileptic EEGs using the best basis wavelet functions. *Journal of Medical Systems*, 
-34(4):755–765, 2010. Springer.
+temporal lobe epileptic EEGs using the best basis wavelet functions. *Journal of Medical Systems*, 34(4):755–765, 2010. Springer.
 
 
 ##  <a name='ConferencePublications'></a>Conference Publications 
