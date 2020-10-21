@@ -3,13 +3,13 @@ layout: page
 title: Publications
 permalink: /publication/
 ---
+<!-- TOC -->
+- [Patents](#patents)
+- [Journal Publications](#journal-publications)
+- [Conference Publications](#conference-publications)
+<!-- /TOC -->
 
-- [<a name='Patents'></a>Patents](#patents)
-- [<a name='JournalPublications'></a>Journal Publications](#journal-publications)
-- [<a name='ConferencePublications'></a>Conference Publications](#conference-publications)
-
-
-##  <a name='Patents'></a>Patents
+## Patents
 
 1. J. An, S.H. Jin, S.H. Lee, J.I. Moon, <u>B. Abibullaev</u>, J.H. Ahn and
 G.H. Jang. Rehabilitation Training System and Method. :
@@ -25,7 +25,7 @@ number*: 14049302, 09-OCT-2013, United States,
 1. J. An, S.H. Jin, S.H. Lee,  <u>B. Abibullaev</u>, J.I. Moon , J.H. Ahn and G.H. Jang. Combining Brain Signals and Functional Electrostimulation Self-Directed Rehabilitation Method, Patent Registration Number: 101501524000, 05.03.2015. South Korea, (http://eng.kipris.or.kr/). 
 
 
-##  <a name='JournalPublications'></a>Journal Publications 
+## Journal Publications 
 
 1. <u>B. Abibullaev</u>, I. Dolzhikova and A. Zollanvari. A Brute-force CNN Model
 Selection for Accurate Classification of Sensorimotor Rhythms in BCIs,
@@ -93,7 +93,7 @@ using continuous wavelet transforms and artificial neural networks, 8(1):33–48
 temporal lobe epileptic EEGs using the best basis wavelet functions. *Journal of Medical Systems*, 34(4):755–765, 2010. Springer.
 
 
-##  <a name='ConferencePublications'></a>Conference Publications 
+## Conference Publications 
 
 1. A. Oleinikov, <u>B. Abibullaev</u>, M. Folgheraiter, "On the Classification of Electromyography Signals to Control a Four Degree-Of-Freedom Prosthetic Device," in 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
 
