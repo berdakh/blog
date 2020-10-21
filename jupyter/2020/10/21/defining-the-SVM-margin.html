@@ -107,27 +107,6 @@ window.onload = wrap_img;
     
 
     
-      
-        <div class="pb-5 d-flex flex-wrap flex-justify-end">
-          <div class="px-2">
-
-    <a href="https://github.com/berdakh/blog/tree/master/_notebooks/2020-10-21-defining-the-SVM-margin.ipynb" role="button" target="_blank">
-<img class="notebook-badge-image" src="/blog/assets/badges/github.svg" alt="View On GitHub">
-    </a>
-</div>
-
-          <div class="px-2">
-    <a href="https://mybinder.org/v2/gh/berdakh/blog/master?filepath=_notebooks%2F2020-10-21-defining-the-SVM-margin.ipynb" target="_blank">
-        <img class="notebook-badge-image" src="/blog/assets/badges/binder.svg" alt="Open In Binder"/>
-    </a>
-</div>
-
-          <div class="px-2">
-    <a href="https://colab.research.google.com/github/berdakh/blog/blob/master/_notebooks/2020-10-21-defining-the-SVM-margin.ipynb" target="_blank">
-        <img class="notebook-badge-image" src="/blog/assets/badges/colab.svg" alt="Open In Colab"/>
-    </a>
-</div>
-        </div>
       </header>
 
   <div class="post-content e-content" itemprop="articleBody">
@@ -162,9 +141,11 @@ window.onload = wrap_img;
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Step 1. Define the distance between two points in the space:
-$</p>
-<h2 id="$d-=-(x_2--_x$1$)$-">$d = (x_2 -_x$1$)$ <a class="anchor-link" href="#$d-=-(x_2--_x$1$)$-"> </a></h2>
+<p>Step 1. Define the distance between two points in the space</p>
+<p>
+$$d = (x_2 - x_1)$$
+</p>
+
 </div>
 </div>
 </div>
@@ -174,34 +155,33 @@ $</p>
 <p>
 $$proj_{d}p = \|x_2 - x_1\|cos(\theta)=\|(x_2 - x_1)\|\frac{\langle x_2 - x_1, p\rangle}{\|(x - x_1)\|\|p\|} = \frac{\langle (x_2 - x_1), p\rangle}{\|p\|}$$
 </p>
+<p>where:  $$cos(\theta) = \frac{\langle (x_2 - x_1), p\rangle}{\|(x_2 - x_1)\|\|p\|}$$</p>
 
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Step 3. Represent  $p$ in terms of $w$:
-$</p>
-<p>$p \per$p w$ thu$s $p = \lambd$a w$, for som$e $\lambda\in$ R$  nd,$</p>
-<h2 id="$proj_{d}p-=-\frac{\lambda\langle-(x_2---_1),-w\rangle}{\lambda\$||}$.">$proj_{d}p = \frac{\lambda\langle (x_2 - _1), w\rangle}{\lambda\$||}$.<a class="anchor-link" href="#$proj_{d}p-=-\frac{\lambda\langle-(x_2---_1),-w\rangle}{\lambda\$||}$."> </a></h2>
+<p>Step 3. Represent  $p$ in terms of $w$:</p>
+<p>$p \perp w$ thus $p = \lambda w$, for some $\lambda\in R$ and,</p>
+<p>$proj_{d}p = \frac{\lambda\langle (x_2 - x_1), w\rangle}{\lambda\|w\|}$.</p>
+
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>Step 4. Define the geometrical margin between two hyperplanes for any</p>
-<p>$x_{i}\in\mathcal{X}$$ $$
-$\big[\langle w\cdot x<em>{2}\ranl + b = 1\bg -i [ 
-\langle w\cdot x</em>{1}\rage +b = -1\$$</p>
-$$ig] = \big[\langle w, (x_2,-x_1)\rangle  2\b$ig$$<p>]$=</p>
-<h2 id="$M-=-proj{d}p=-\frac{\-angl-x_2--x_1),-w\rangle}{|w\|}-=\frc{2}{$$\|w\|}$-">$M = proj{d}p= \frac{\ angl x_2 -x_1), w\rangle}{|w\|} =\frc{2}{$$\|w\|}$ <a class="anchor-link" href="#$M-=-proj{d}p=-\frac{\-angl-x_2--x_1),-w\rangle}{|w\|}-=\frc{2}{$$\|w\|}$-"> </a></h2>
+<p>Step 4. Define the geometrical margin between two hyperplanes for any $x_{i}\in\mathcal{X}$,</p>
+<p>$\big[\langle w\cdot x_{2}\rangle + b = 1\big] - \big[
+\langle w\cdot x_{1}\rangle + b = -1\big] = \big[\langle w, (x_2,-x_1)\rangle = 2\big]$</p>
+<p>$M = proj_{d}p= \frac{\langle (x_2 - x_1), w\rangle}{\|w\|} =\frac{2}{\|w\|}$</p>
+
 </div>
 </div>
 </div>
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="-"> <a class="anchor-link" href="#-"> </a></h2><p>Maximize margin</p>
-<p>
+<h2 id="Maximize-margin">Maximize margin<a class="anchor-link" href="#Maximize-margin"> </a></h2><p>
 $$\mbox{max}_{w,\xi} \rightarrow\frac{2}{\|w\|}+ C\sum_{i=1}^{n}\xi_{i}$$
 
 
