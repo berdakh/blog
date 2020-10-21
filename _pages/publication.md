@@ -10,17 +10,18 @@ permalink: /publication/
 
 
 ##  <a name='Patents'></a>Patents 
-1. J. An, S.H. Jin, S.H. Lee, J.I. Moon <u>B. Abibullaev</u>, J.H. Ahn and
+1. J. An, S.H. Jin, S.H. Lee, J.I. Moon, <u>B. Abibullaev</u>, J.H. Ahn and
 G.H. Jang. REHABILITATION TRAINING SYSTEM AND METHOD. :
 9,081,890,Washington, DC: United States. Patent and Trademark Office,
 2015 (https://www.google.com/patents/US9081890).
 
-1. J. An, S.H. Jin, S.H. Lee, J.I. Moon <u>B. Abibullaev</u>, J.H. Ahn and
+1. J. An, S.H. Jin, S.H. Lee, J.I. Moon, <u>B. Abibullaev</u>, J.H. Ahn and
 G.H. Jang. Self-directed rehabilitation training method combining brain
 signals and functional electro-stimulation. : 17077057, *Application
 number*: 14049302, 09-OCT-2013, United States,
 (http://www.google.com/patents/US20140200632).
 
+1. J. An, S.H. Jin, S.H. Lee,  <u>B. Abibullaev</u>, J.I. Moon , J.H. Ahn and G.H. Jang. Combining Brain Signals and Functional Electrostimulation Self-Directed Rehabilitation Method, Patent Registration Number: 101501524000, 05.03.2015. South Korea, (http://eng.kipris.or.kr/). 
 
 
 ##  <a name='JournalPublications'></a>Journal Publications 
