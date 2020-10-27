@@ -4,9 +4,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="twitter:card" content="summary" /><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Defining the margin for support vector machines | Neural Oscillations</title>
+<title>Introduction to Support Vector Machines | Neural Oscillations</title>
 <meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Defining the margin for support vector machines" />
+<meta property="og:title" content="Introduction to Support Vector Machines" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Defining the margin for Support-Vector Machines" />
 <meta property="og:description" content="Defining the margin for Support-Vector Machines" />
@@ -16,12 +16,12 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-10-21T00:00:00-05:00" />
 <script type="application/ld+json">
-{"description":"Defining the margin for Support-Vector Machines","@type":"BlogPosting","headline":"Defining the margin for support vector machines","url":"https://berdakh.github.io/blog/jupyter/2020/10/21/defining-the-SVM-margin.html","datePublished":"2020-10-21T00:00:00-05:00","dateModified":"2020-10-21T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://berdakh.github.io/blog/jupyter/2020/10/21/defining-the-SVM-margin.html"},"@context":"https://schema.org"}</script>
+{"description":"Defining the margin for Support-Vector Machines","@type":"BlogPosting","headline":"Introduction to Support Vector Machines","url":"https://berdakh.github.io/blog/jupyter/2020/10/21/defining-the-SVM-margin.html","datePublished":"2020-10-21T00:00:00-05:00","dateModified":"2020-10-21T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://berdakh.github.io/blog/jupyter/2020/10/21/defining-the-SVM-margin.html"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/blog/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://berdakh.github.io/blog/feed.xml" title="Neural Oscillations" /><link rel="shortcut icon" type="image/x-icon" href="/blog/images/favicon.ico"><!-- Begin Jekyll SEO tag v2.6.1 -->
-<title>Defining the margin for support vector machines | Neural Oscillations</title>
+<title>Introduction to Support Vector Machines | Neural Oscillations</title>
 <meta name="generator" content="Jekyll v4.0.0" />
-<meta property="og:title" content="Defining the margin for support vector machines" />
+<meta property="og:title" content="Introduction to Support Vector Machines" />
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Defining the margin for Support-Vector Machines" />
 <meta property="og:description" content="Defining the margin for Support-Vector Machines" />
@@ -31,7 +31,7 @@
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2020-10-21T00:00:00-05:00" />
 <script type="application/ld+json">
-{"description":"Defining the margin for Support-Vector Machines","@type":"BlogPosting","headline":"Defining the margin for support vector machines","url":"https://berdakh.github.io/blog/jupyter/2020/10/21/defining-the-SVM-margin.html","datePublished":"2020-10-21T00:00:00-05:00","dateModified":"2020-10-21T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://berdakh.github.io/blog/jupyter/2020/10/21/defining-the-SVM-margin.html"},"@context":"https://schema.org"}</script>
+{"description":"Defining the margin for Support-Vector Machines","@type":"BlogPosting","headline":"Introduction to Support Vector Machines","url":"https://berdakh.github.io/blog/jupyter/2020/10/21/defining-the-SVM-margin.html","datePublished":"2020-10-21T00:00:00-05:00","dateModified":"2020-10-21T00:00:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://berdakh.github.io/blog/jupyter/2020/10/21/defining-the-SVM-margin.html"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 <link href="https://unpkg.com/@primer/css/dist/primer.css" rel="stylesheet" />
@@ -103,7 +103,7 @@ window.onload = wrap_img;
         <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">Defining the margin for support vector machines</h1><p class="page-description">Defining the margin for Support-Vector Machines</p><p class="post-meta post-meta-title"><time class="dt-published" datetime="2020-10-21T00:00:00-05:00" itemprop="datePublished">
+    <h1 class="post-title p-name" itemprop="name headline">Introduction to Support Vector Machines</h1><p class="page-description">Defining the margin for Support-Vector Machines</p><p class="post-meta post-meta-title"><time class="dt-published" datetime="2020-10-21T00:00:00-05:00" itemprop="datePublished">
         Oct 21, 2020
       </time>
        • <span class="read-time" title="Estimated read time">
@@ -138,6 +138,41 @@ window.onload = wrap_img;
     
     
 <div class="cell border-box-sizing code_cell rendered">
+
+</div>
+    
+
+    
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">IPython.display</span> <span class="kn">import</span> <span class="n">YouTubeVideo</span>
+<span class="n">YouTubeVideo</span><span class="p">(</span><span class="s1">&#39;CG-nUvJgr2Y&#39;</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mi">800</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">400</span><span class="p">)</span>
+</pre></div>
+
+    </div>
+</div>
+</div>
+
+<div class="output_wrapper">
+<div class="output">
+
+<div class="output_area">
+
+
+<div class="output_html rendered_html output_subarea output_execute_result">
+
+        <iframe width="800" height="400" src="https://www.youtube.com/embed/CG-nUvJgr2Y" frameborder="0" allowfullscreen=""></iframe>
+        
+</div>
+
+</div>
+
+</div>
+</div>
 
 </div>
     
@@ -188,8 +223,8 @@ $$proj_{d}p = \|\bf{x_2} -\bf{x_1}\|cos(\theta)=\|x_2 - x_1\|\frac{\langle x_2 -
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h3 id="Step-4.">Step 4.<a class="anchor-link" href="#Step-4."> </a></h3><p>Define the geometrical margin between two hyperplanes for any $x_{i}\in\mathcal{X}$,</p>
-<p>$\big[\langle \bf{w}\cdot \bf{x_{2}}\rangle + b = 1\big] - \big[
-\langle \bf{w}\cdot \bf{x_{1}}\rangle + b = -1\big] = \big[\langle \bf{w}, \bf{x_2}-\bf{x_1}\rangle = 2\big]$</p>
+<p>$\big[\langle \bf{w}, \bf{x_{2}}\rangle + b = 1\big] - \big[
+\langle \bf{w}, \bf{x_{1}}\rangle + b = -1\big] = \big[\langle \bf{w}, \bf{x_2}-\bf{x_1}\rangle = 2\big]$</p>
 <p>$M = proj_{d}p= \frac{\langle (\bf{x_2} - \bf{x_1}), w\rangle}{\|\bf{w}\|} =\frac{2}{\|\bf{w}\|}$</p>
 
 </div>
@@ -199,8 +234,9 @@ $$proj_{d}p = \|\bf{x_2} -\bf{x_1}\|cos(\theta)=\|x_2 - x_1\|\frac{\langle x_2 -
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="Maximize-margin">Maximize margin<a class="anchor-link" href="#Maximize-margin"> </a></h2><p>
 $$\mbox{max}_{\bf{w},\xi} \rightarrow\frac{2}{\|\bf{w}\|}+ C\sum_{i=1}^{n}\xi_{i}$$
-
-
+</p>
+<p>equivalently, we can minimize:</p>
+<p>
 $$\mbox{min}_{\bf{w},\xi} \rightarrow\frac{1}{2}\|\bf{w}\|+ C\sum_{i=1}^{n}\xi_{i}$$
 </p>
 <p>subject to<br />
