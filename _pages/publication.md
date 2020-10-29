@@ -3,7 +3,10 @@ layout: page
 title: Publications
 permalink: /publication/
 ---
-<!-- TOC -->autoauto- [Patents](#patents)auto- [Journal Publications](#journal-publications)auto- [Conference Publications](#conference-publications)autoauto<!-- /TOC -->
+- [Patents](#patents)
+- [Journal Publications](#journal-publications)
+- [Conference Publications](#conference-publications)
+
 
 ## Patents
 
