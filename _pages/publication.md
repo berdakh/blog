@@ -92,6 +92,7 @@ using continuous wavelet transforms and artificial neural networks, 8(1):33–48
 1. <u>B. Abibullaev</u>, M.S. Kim, and H.D. Seo. Seizure detection in
 temporal lobe epileptic EEGs using the best basis wavelet functions. *Journal of Medical Systems*, 34(4):755–765, 2010. Springer. [>> Link <<](https://pubmed.ncbi.nlm.nih.gov/20703931/)
 
+1. M.S. Kim, Y.C. Cho, <u>B. Abibullaev</u>, and H.D. Seo. Analysis of brain functions and classification of sleep stage EEG using daubechies wavelet. **Sensors and Materials** , 20(1):1--15, 2008. MYU, Japan. [>> LInk <<](https://myukk.org/SM2017/sm_pdf/SM701.pdf)
 
 ## Conference Publications 
 
