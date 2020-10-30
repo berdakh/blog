@@ -92,13 +92,13 @@ using continuous wavelet transforms and artificial neural networks, 8(1):33–48
 1. <u>B. Abibullaev</u>, M.S. Kim, and H.D. Seo. Seizure detection in
 temporal lobe epileptic EEGs using the best basis wavelet functions. *Journal of Medical Systems*, 34(4):755–765, 2010. Springer. [>> Link <<](https://pubmed.ncbi.nlm.nih.gov/20703931/)
 
-1. M.S. Kim, Y.C. Cho, <u>B. Abibullaev</u>, and H.D. Seo. Analysis of brain functions and classification of sleep stage EEG using daubechies wavelet. **Sensors and Materials** , 20(1):1--15, 2008. MYU, Japan. [>> LInk <<](https://myukk.org/SM2017/sm_pdf/SM701.pdf)
+1. M.S. Kim, Y.C. Cho, <u>B. Abibullaev</u>, and H.D. Seo. Analysis of brain functions and classification of sleep stage EEG using daubechies wavelet. *Sensors and Materials* , 20(1):1--15, 2008. MYU, Japan. [>> LInk <<](https://myukk.org/SM2017/sm_pdf/SM701.pdf)
 
 ## Conference Publications 
 
-1. A. Oleinikov, <u>B. Abibullaev</u>, M. Folgheraiter, "On the Classification of Electromyography Signals to Control a Four Degree-Of-Freedom Prosthetic Device," in 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+1. A. Oleinikov, <u>B. Abibullaev</u>, M. Folgheraiter, "On the Classification of Electromyography Signals to Control a Four Degree-Of-Freedom Prosthetic Device," in 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), July 20-24, Montreal, Canada. 
 
-1. B. Saduanov, D. Tokmurzina, K. Kunanbayev and <u>B. Abibullaev</u>, "Design and Optimization of a Real-Time Asynchronous BCI Control Strategy for Robotic Manipulator Assistance", in 2020 8th International Winter Conference on Brain-Computer Interface (BCI)
+1. B. Saduanov, D. Tokmurzina, K. Kunanbayev and <u>B. Abibullaev</u>, "Design and Optimization of a Real-Time Asynchronous BCI Control Strategy for Robotic Manipulator Assistance", in 2020 8th International Winter Conference on Brain-Computer Interface (BCI), 2020, GangWon, South Korea. 
 
 1. A. Tuleuov and <u>B. Abibullaev</u>, “Deep Learning Models for
 Subject-Independent ERP-based Brain-Computer Interfaces,” in *the 2019
@@ -108,7 +108,7 @@ March 20-23, 2019, San Francisco, CA, USA.
 1. <u>B. Abibullaev</u>, Y. Orazayev, and A. Zollanvari, “Novel
 Spatiospectral Features of ERPs Enhances Brain-Computer Interfaces ,” in
 *Brain-Computer Interface (BCI), 2019 7th International Conference
-on*.1em plus 0.5em minus 0.4em IEEE, 2019, GangWon, South Korea.
+IEEE, 2019, GangWon, South Korea.
 
 1. B. Saduanov, D. Tokmurzina, T. Alizadeh, and <u>B. Abibullaev</u>,
 “Brain-computer interface humanoid pre-trained for interaction with
@@ -127,12 +127,6 @@ IEEE, 2018, pp. 1-5, GangWon, South Korea.
 artifact in fNIRS signal," 2018 6th International Conference on
 Brain-Computer Interface (BCI), pp. 1-3, 2018, IEEE, GangWon, South
 Korea.
-
-1. B. Saduanov, T. Alizadeh, J. An, and <u>B. Abibullaev</u>, “Trained by
-demonstration humanoid robot controlled via a bci system for
-telepresence,” in *Brain-Computer Interface (BCI), 2018 6th
-International Conference on*.1em plus 0.5em minus 0.4emIEEE, 2018, pp.
-1–4, January, GangWon, South Korea.
 
 1. B. Saduanov, T. Alizadeh, J. An, and <u>B. Abibullaev</u>, “Trained by
 demonstration humanoid robot controlled via a bci system for
