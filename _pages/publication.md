@@ -3,25 +3,9 @@ layout: page
 title: Publications
 permalink: /publication/
 ---
-- [Patents](#patents)
 - [Journal Publications](#journal-publications)
 - [Conference Publications](#conference-publications)
-
-
-## Patents
-
-1. J. An, S.H. Jin, S.H. Lee, J.I. Moon, <u>B. Abibullaev</u>, J.H. Ahn and
-G.H. Jang. Rehabilitation Training System and Method. :
-9,081,890,Washington, DC: United States. Patent and Trademark Office,
-2015 [>> Link <<](https://www.google.com/patents/US9081890).
-
-1. J. An, S.H. Jin, S.H. Lee, J.I. Moon, <u>B. Abibullaev</u>, J.H. Ahn and
-G.H. Jang. Self-directed Rehabilitation Training Method Combining Brain
-Signals and Functional Electrostimulation. : 17077057, *Application
-number*: 14049302, 09-OCT-2013, United States,
-[>> Link <<](http://www.google.com/patents/US20140200632).
-
-1. J. An, S.H. Jin, S.H. Lee,  <u>B. Abibullaev</u>, J.I. Moon , J.H. Ahn and G.H. Jang. Combining Brain Signals and Functional Electrostimulation Self-Directed Rehabilitation Method, Patent Registration Number: 101501524000, 05.03.2015. South Korea, [>> Link <<](http://eng.kipris.or.kr/). 
+- [Patents](#patents)
 
 
 ## Journal Publications 
@@ -93,6 +77,7 @@ using continuous wavelet transforms and artificial neural networks, 8(1):33–48
 temporal lobe epileptic EEGs using the best basis wavelet functions. *Journal of Medical Systems*, 34(4):755–765, 2010. Springer. [>> Link <<](https://pubmed.ncbi.nlm.nih.gov/20703931/)
 
 1. M.S. Kim, Y.C. Cho, <u>B. Abibullaev</u>, and H.D. Seo. Analysis of brain functions and classification of sleep stage EEG using daubechies wavelet. *Sensors and Materials* , 20(1):1--15, 2008. MYU, Japan. [>> LInk <<](https://myukk.org/SM2017/sm_pdf/SM701.pdf)
+
 
 ## Conference Publications 
 
@@ -268,3 +253,19 @@ and ICT*, Melaka, Malaysia, November 27-29, 2007.
 1. H.D. Seo and <u>B. Abibullaev</u>. Analysis of EEG signals by the
 continuous wavelet transforms. In *the 5th Int. Joint Conference on
 Global Academic Networking*, Vladivastok, Russia, June 7-9 2007.
+
+
+## Patents
+
+1. J. An, S.H. Jin, S.H. Lee, J.I. Moon, <u>B. Abibullaev</u>, J.H. Ahn and
+G.H. Jang. Rehabilitation Training System and Method. :
+9,081,890,Washington, DC: United States. Patent and Trademark Office,
+2015 [>> Link <<](https://www.google.com/patents/US9081890).
+
+1. J. An, S.H. Jin, S.H. Lee, J.I. Moon, <u>B. Abibullaev</u>, J.H. Ahn and
+G.H. Jang. Self-directed Rehabilitation Training Method Combining Brain
+Signals and Functional Electrostimulation. : 17077057, *Application
+number*: 14049302, 09-OCT-2013, United States,
+[>> Link <<](http://www.google.com/patents/US20140200632).
+
+1. J. An, S.H. Jin, S.H. Lee,  <u>B. Abibullaev</u>, J.I. Moon , J.H. Ahn and G.H. Jang. Combining Brain Signals and Functional Electrostimulation Self-Directed Rehabilitation Method, Patent Registration Number: 101501524000, 05.03.2015. South Korea, [>> Link <<](http://eng.kipris.or.kr/). 
