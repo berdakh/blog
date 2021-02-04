@@ -38,7 +38,7 @@ Programming by Demonstration**, *IEEE Access*, 2019, vol. 7.
 Yozbatiran, A. Blank, J. French, C. Karmonik, R.G.Grossman, M.K
 O’Malley, G. Francisco, J.L. Contreras-Vidal. **Design and optimization of
 an EEG-based brain machine interface (BMI) to an upper-limb exoskeleton
-for stroke survivors**, vol. 10, March, 2016.
+for stroke survivors**, *Front. Neurosci.*, vol. 10, March, 2016.
 [>> Link <<](https://www.frontiersin.org/articles/10.3389/fnins.2016.00122)
 
 1. J.G. Cruz-Garza, Z.R. Hernandez, T. Tse, E. Caducoy, <u>B.
