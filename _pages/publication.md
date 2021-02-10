@@ -10,9 +10,9 @@ permalink: /publication/
 
 ## Journal Publications 
 
-1. <u>B. Abibullaev</u> and A. Zollanvari. **A Systematic Deep Learning Model Selection for P300-Based Brain-Computer Interfaces**,
-*IEEE Transactions on Systems, Man, and Cybernetics: Systems*, doi: 10.1109/TSMC.2021.3051136, 2021.
-[>> Link <<](https://ieeexplore.ieee.org/document/9351887)
+1. B. Abibullaev and A. Zollanvari. **A Systematic Deep Learning Model Selection for P300-Based Brain-Computer Interfaces**,
+*IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 
+DOI: 10.1109/TSMC.2021.3051136, 2021. [>> Link <<](https://ieeexplore.ieee.org/document/9351887)
 
 
 1. <u>B. Abibullaev</u>, I. Dolzhikova and A. Zollanvari. **A Brute-force CNN Model
