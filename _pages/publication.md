@@ -7,7 +7,6 @@ permalink: /publication/
 - [Journal Publications](#journal-publications)
 - [Conference Publications](#conference-publications)
 
-
 ## Patents
 
 1. J. An, S.H. Jin, S.H. Lee, J.I. Moon, <u>B. Abibullaev</u>, J.H. Ahn and
