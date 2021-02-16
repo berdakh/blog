@@ -9,77 +9,75 @@ permalink: /publication/
 
 ## Journal Publications 
 
-1. B. Abibullaev and A. Zollanvari. **A Systematic Deep Learning Model Selection for P300-Based Brain-Computer Interfaces**,<br/>
-*IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 
-DOI: 10.1109/TSMC.2021.3051136, 2021. [>>Link<<](https://ieeexplore.ieee.org/document/9351887)
+1. <u>B. Abibullaev</u> and A. Zollanvari. **A Systematic Deep Learning Model Selection for P300-Based Brain-Computer Interfaces**, *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, DOI: 10.1109/TSMC.2021.3051136, 2021. [[Link]](https://ieeexplore.ieee.org/document/9351887)
 
 
 1. <u>B. Abibullaev</u>, I. Dolzhikova and A. Zollanvari. **A Brute-force CNN Model Selection for Accurate Classification of Sensorimotor Rhythms in BCIs**,
 *IEEE Access*, DOI: 10.1109/ACCESS.2020.2997681, 2020.
-[>> Link <<](https://ieeexplore.ieee.org/document/9099856)
+[[Link]](https://ieeexplore.ieee.org/document/9099856)
 
 1. A. Zollanvari, M. Abdirash, A. Dadlani and <u>B. Abibullaev</u>.
 **Asymptotically Bias-Corrected Regularized Linear Discriminant Analysis
 for Cost-Sensitive Binary Classification**, *IEEE Signal Processing Letters*, 2019.
-[>> Link <<](https://ieeexplore.ieee.org/document/8720003)
+[[Link]](https://ieeexplore.ieee.org/document/8720003)
 
 1. <u>B. Abibullaev</u> and A. Zollanvari. **Learning Discriminative
 Spatiospectral Features of ERPs for Accurate Brain-Computer Interfaces**,
 *IEEE Journal of Biomedical and Health Informatics*, vol. 98, pp.1-12, 2019.
-[>> Link <<](https://ieeexplore.ieee.org/document/8613780)
+[[Link]](https://ieeexplore.ieee.org/document/8613780)
 
 1. <u>B. Abibullaev</u>, A. Zollanvari, B. Saduanov, and T. Alizadeh.
 **Design and Optimization of a BCI-Driven Telepresence Robot Through
 Programming by Demonstration**, *IEEE Access*, 2019, vol. 7.
-[>> Link <<](https://ieeexplore.ieee.org/document/8788527)
+[[Link]](https://ieeexplore.ieee.org/document/8788527)
 
 1. <u>B Abibullaev</u>, J An, SH Lee, JI Moon. **Design and Evaluation of Action Observation and Motor Imagery based BCIs using NIRS**, 
 *Measurement*, vol. 98, pp. 250-261, 2017, Elsevier.
-[>> Link <<](https://www.sciencedirect.com/science/article/abs/pii/S0263224116306996)
+[[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0263224116306996)
 
 1. N.A. Bhagat, A. Venkatakrishnan, <u>B. Abibullaev</u>, E.J. Artz, N.
 Yozbatiran, A. Blank, J. French, C. Karmonik, R.G.Grossman, M.K
 O’Malley, G. Francisco, J.L. Contreras-Vidal. **Design and optimization of
 an EEG-based brain machine interface (BMI) to an upper-limb exoskeleton
 for stroke survivors**, *Front. Neurosci.*, vol. 10, March, 2016.
-[>> Link <<](https://www.frontiersin.org/articles/10.3389/fnins.2016.00122)
+[[Link]](https://www.frontiersin.org/articles/10.3389/fnins.2016.00122)
 
 1. J.G. Cruz-Garza, Z.R. Hernandez, T. Tse, E. Caducoy, <u>B.
 Abibullaev</u>, J.L. Contreras-Vidal. **A novel experimental and
 analytical approach to the multimodal neural decoding of intent during
 social interaction in freely-behaving human infants**, 
-*Journal of Visualized Experiments*, doi:10.3791/53406, October, 2015. [>> Link <<](https://www.jove.com/v/53406/a-novel-experimental-analytical-approach-to-multimodal-neural)
+*Journal of Visualized Experiments*, doi:10.3791/53406, October, 2015. [[Link]](https://www.jove.com/v/53406/a-novel-experimental-analytical-approach-to-multimodal-neural)
 
-1. C.H. Park, J.H Seo, D. Kim, <u>B. Abibullaev</u>, H. Kwon, Y.H. Lee, M.Y. Kim, K. Kim, J.S. Kim, E.Y. Joo, S.B. Hong, (2015, Feb). **Source Imaging in Partial Epilepsy in Comparison with Presurgical Evaluation and Magnetoencephalography**, *Journal of Clinical Neurology*, 2015 Feb 17, 11:e12. [>> Link <<](https://pubmed.ncbi.nlm.nih.gov/25749824/)
+1. C.H. Park, J.H Seo, D. Kim, <u>B. Abibullaev</u>, H. Kwon, Y.H. Lee, M.Y. Kim, K. Kim, J.S. Kim, E.Y. Joo, S.B. Hong, (2015, Feb). **Source Imaging in Partial Epilepsy in Comparison with Presurgical Evaluation and Magnetoencephalography**, *Journal of Clinical Neurology*, 2015 Feb 17, 11:e12. [[Link]](https://pubmed.ncbi.nlm.nih.gov/25749824/)
 
 1. <u>B. Abibullaev</u>, J An, S.H. Jin, and J.I. Moon. **Classification of
 brain hemodynamic signals arising from visual action observation tasks
-for brain-computer interfaces: An fNIRS study**, *Measurement*, 2014. Elsevier. [>> Link <<](https://www.sciencedirect.com/science/article/abs/pii/S0263224113005976)
+for brain-computer interfaces: An fNIRS study**, *Measurement*, 2014. Elsevier. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S0263224113005976)
 
 1. <u>B. Abibullaev</u>, J An, S.H. Lee, S.H. Jin, and J.I. Moon. **Minimizing inter-subject variability in FNIRS based brain computer interfaces via multiple-kernel support vector learning**. *Medical Engineering Physics*, 2013. Elsevier.
-[>> Link <<](https://www.sciencedirect.com/science/article/abs/pii/S1350453313001835)
+[[Link]](https://www.sciencedirect.com/science/article/abs/pii/S1350453313001835)
 
 1. <u>B. Abibullaev</u> and J. An. **Classification of frontal cortex
 hemodynamic response during cognitive tasks using wavelet transforms and
-machine learning algorithm**, *Medical Engineering Physics*, 34(10):1394–410, 2012. Elsevier. [>> Link <<](https://www.sciencedirect.com/science/article/abs/pii/S1350453312000057)
+machine learning algorithm**, *Medical Engineering Physics*, 34(10):1394–410, 2012. Elsevier. [[Link]](https://www.sciencedirect.com/science/article/abs/pii/S1350453312000057)
 
 1. <u>B. Abibullaev</u> and J. An. **Decision support algorithm for diagnosis
-of ADHD disorder using electroencephalograms**, *Journal of Medical Systems*, 36(4):2675–2688, 2011. Springer. [>> Link <<](https://pubmed.ncbi.nlm.nih.gov/21671069/)
+of ADHD disorder using electroencephalograms**, *Journal of Medical Systems*, 36(4):2675–2688, 2011. Springer. [[Link]](https://pubmed.ncbi.nlm.nih.gov/21671069/)
 
 1. <u>B. Abibullaev</u>, J. An, and J.I. Moon. **Neural network
-classification of brain hemodynamic responses from four mental tasks**, *International Journal of Optomechatronics*, 5(4):340–359, 2011. Taylor & Francis. [>> Link <<](https://www.tandfonline.com/doi/full/10.1080/15599612.2011.633209)
+classification of brain hemodynamic responses from four mental tasks**, *International Journal of Optomechatronics*, 5(4):340–359, 2011. Taylor & Francis. [[Link]](https://www.tandfonline.com/doi/full/10.1080/15599612.2011.633209)
 
 1. <u>B. Abibullaev</u> and H.D. Seo. **A new QRS detection method using
-wavelets and artificial neural networks**. *Journal of Medical Systems*, 35(4):683–691, 2011. Springer. [>> Link <<](https://pubmed.ncbi.nlm.nih.gov/20703782/)
+wavelets and artificial neural networks**. *Journal of Medical Systems*, 35(4):683–691, 2011. Springer. [[Link]](https://pubmed.ncbi.nlm.nih.gov/20703782/)
 
 1. <u>B. Abibullaev</u>, M.S. Kim, and H.D. Seo. **Epileptic spike detection
 using continuous wavelet transforms and artificial neural networks**, 8(1):33–48, 2010. *International journal of wavelets, multiresolution and information processing*, Worldscientific.
-[>> Link <<](https://www.worldscientific.com/doi/abs/10.1142/S0219691310003341)
+[[Link]](https://www.worldscientific.com/doi/abs/10.1142/S0219691310003341)
 
 1. <u>B. Abibullaev</u>, M.S. Kim, and H.D. Seo. **Seizure detection in
-temporal lobe epileptic EEGs using the best basis wavelet functions**. *Journal of Medical Systems*, 34(4):755–765, 2010. Springer. [>> Link <<](https://pubmed.ncbi.nlm.nih.gov/20703931/)
+temporal lobe epileptic EEGs using the best basis wavelet functions**. *Journal of Medical Systems*, 34(4):755–765, 2010. Springer. [[Link]](https://pubmed.ncbi.nlm.nih.gov/20703931/)
 
-1. M.S. Kim, Y.C. Cho, <u>B. Abibullaev</u>, and H.D. Seo. **Analysis of brain functions and classification of sleep stage EEG using daubechies wavelet**. *Sensors and Materials* , 20(1):1--15, 2008. MYU, Japan. [>> LInk <<](https://myukk.org/SM2017/sm_pdf/SM701.pdf)
+1. M.S. Kim, Y.C. Cho, <u>B. Abibullaev</u>, and H.D. Seo. **Analysis of brain functions and classification of sleep stage EEG using daubechies wavelet**. *Sensors and Materials* , 20(1):1--15, 2008. MYU, Japan. [[Link]](https://myukk.org/SM2017/sm_pdf/SM701.pdf)
 
 
 ## Conference Publications 
