@@ -7,9 +7,9 @@ permalink: /team/
 
 <img src="..\images\logo.png" alt="drawing" width="150"/>
 
-## Berdakh Abibullaev
+### Berdakh Abibullaev
 
-### Assistant professor, Robotics and Mechatronics Department, School of Engineering and Digital Sciences
+Assistant professor, Robotics and Mechatronics Department, School of Engineering and Digital Sciences
  
 > [Short biography](https://nu.edu.kz/faculty/berdakh-abibullaev)
 
@@ -25,9 +25,9 @@ permalink: /team/
 
 <img src="..\images\logo.png" alt="drawing" width="150"/>
 
-## Berdakh Abibullaev
+### Berdakh Abibullaev
 
-### Assistant professor, Robotics and Mechatronics Department, School of Engineering and Digital Sciences
+Assistant professor, Robotics and Mechatronics Department, School of Engineering and Digital Sciences
  
 > [Short biography](https://nu.edu.kz/faculty/berdakh-abibullaev)
 

@@ -7,33 +7,14 @@ permalink: /publication/
 - [Conference Publications](#conference-publications)
 - [Patents](#patents)
 
-<<<<<<< HEAD
-## Patents
-
-1. J. An, S.H. Jin, S.H. Lee, J.I. Moon, <u>B. Abibullaev</u>, J.H. Ahn and
-G.H. Jang. Rehabilitation Training System and Method. :
-9,081,890,Washington, DC: United States. Patent and Trademark Office,
-2015 [>> Link <<](https://www.google.com/patents/US9081890).
-
-1. J. An, S.H. Jin, S.H. Lee, J.I. Moon, <u>B. Abibullaev</u>, J.H. Ahn and
-G.H. Jang. Self-directed Rehabilitation Training Method Combining Brain
-Signals and Functional Electrostimulation. : 17077057, *Application
-number*: 14049302, 09-OCT-2013, United States,
-[>> Link <<](http://www.google.com/patents/US20140200632).
-
-1. J. An, S.H. Jin, S.H. Lee,  <u>B. Abibullaev</u>, J.I. Moon , J.H. Ahn and G.H. Jang. Combining Brain Signals and Functional Electrostimulation Self-Directed Rehabilitation Method, Patent Registration Number: 101501524000, 05.03.2015. South Korea, [>> Link <<](http://eng.kipris.or.kr/). 
-
-=======
 ## Journal Publications 
 
 1. B. Abibullaev and A. Zollanvari. **A Systematic Deep Learning Model Selection for P300-Based Brain-Computer Interfaces**,<br/>
 *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, 
 DOI: 10.1109/TSMC.2021.3051136, 2021. [>>Link<<](https://ieeexplore.ieee.org/document/9351887)
->>>>>>> 8d241b0b4ea163a58001f8b5b0b1b96739318b05
 
 
-1. <u>B. Abibullaev</u>, I. Dolzhikova and A. Zollanvari. **A Brute-force CNN Model
-Selection for Accurate Classification of Sensorimotor Rhythms in BCIs**,
+1. <u>B. Abibullaev</u>, I. Dolzhikova and A. Zollanvari. **A Brute-force CNN Model Selection for Accurate Classification of Sensorimotor Rhythms in BCIs**,
 *IEEE Access*, DOI: 10.1109/ACCESS.2020.2997681, 2020.
 [>> Link <<](https://ieeexplore.ieee.org/document/9099856)
 
