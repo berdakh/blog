@@ -12,8 +12,7 @@ permalink: /publication/
 1. <u>B. Abibullaev</u> and A. Zollanvari. **A Systematic Deep Learning Model Selection for P300-Based Brain-Computer Interfaces**, *IEEE Transactions on Systems, Man, and Cybernetics: Systems*, DOI: 10.1109/TSMC.2021.3051136, 2021. [[Link]](https://ieeexplore.ieee.org/document/9351887)
 
 
-1. <u>B. Abibullaev</u>, I. Dolzhikova and A. Zollanvari. **A Brute-force CNN Model Selection for Accurate Classification of Sensorimotor Rhythms in BCIs**,
-*IEEE Access*, DOI: 10.1109/ACCESS.2020.2997681, 2020.
+1. <u>B. Abibullaev</u>, I. Dolzhikova and A. Zollanvari. **A Brute-force CNN Model Selection for Accurate Classification of Sensorimotor Rhythms in BCIs**, *IEEE Access*, DOI: 10.1109/ACCESS.2020.2997681, 2020.
 [[Link]](https://ieeexplore.ieee.org/document/9099856)
 
 1. A. Zollanvari, M. Abdirash, A. Dadlani and <u>B. Abibullaev</u>.
