@@ -4,7 +4,6 @@ title: Publications
 permalink: /publication/
 ---
 
-## Publications
 
   - [**Journal Publications**](#journal-publications)
   - [**Conference Publications**](#conference-publications)

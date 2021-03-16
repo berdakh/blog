@@ -4,20 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-- [Courses](#courses)
-  - [Machine Learning with Applications](#machine-learning-with-applications)
-    - [Course Description](#course-description)
-- [### Prerequisites/Corequisites](#-prerequisitescorequisites)
-- [### Course Objectives](#-course-objectives)
-- [### Course learning outcomes](#-course-learning-outcomes)
-    - [<a name='Youtubelectures'></a>Youtube lectures](#youtube-lectures)
-  - [Brain-Machine Interfaces](#brain-machine-interfaces)
-    - [Course Description](#course-description-1)
-- [### Course Objectives](#-course-objectives-1)
-- [### Course learning outcomes](#-course-learning-outcomes-1)
-    - [<a name='Youtubelectures-1'></a>Youtube lectures](#youtube-lectures-1)
-
-# Courses
 
 ## Machine Learning with Applications  
 ### Course Description
