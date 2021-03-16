@@ -3,13 +3,13 @@ layout: page
 title: members
 permalink: /members/
 ---
-<p style="margin-bottom:2cm;"> <hr> </p>
+<p style="margin-bottom:2cm;"> :: </p>
 
 ## Lab members
 
 This page is under construction.
 
-<p style="margin-bottom:1cm;"> <hr> </p>
+<p style="margin-bottom:1cm;"> :: </p>
 
 ###  Berdakh Abibullaev Ph.D. 
 <img src="..\images\logo.png"
