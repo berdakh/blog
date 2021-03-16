@@ -1,29 +1,126 @@
-<img src="..\images\logo.png" alt="drawing" width="110"/>
+---
+layout: page
+title: members
+permalink: /members/
+---
+<p style="margin-bottom:2cm;"> <hr> </p>
 
-### Berdakh Abibullaev
+## Lab members
 
-Assistant professor, Robotics and Mechatronics Department, School of Engineering and Digital Sciences
- 
-> [Short Bio](https://nu.edu.kz/faculty/berdakh-abibullaev)
+This page is under construction.
 
-> [berdakh.abibullaev at nu.edu.kz](mailto:berdakh.abibullaev@nu.edu.kz)
+<p style="margin-bottom:1cm;"> <hr> </p>
 
-> Phone: 6664
+###  Berdakh Abibullaev Ph.D. 
+<img src="..\images\logo.png"
+     style="float: left; margin-right: 15px; 
+     margin-top:10px; margin-bottom: 10px; 
+     width:125px;height:145px;" 
+     />
 
-&nbsp;&nbsp; &nbsp; &nbsp;
+2532 Yorktown Str, #22,<br/>
+Houston, TX 77056 <br/>
+Phone: +1 (832) 779-7737‬ <br/>
+Email: <a href="mailto:berdakho@gmail.com">berdakho@gmail.com</a>  
+Web: http://berdakh.github.io, <br/>
+
+<p style="margin-bottom:1cm;"> <hr> </p>
 
 
-## Students
+### Student 1
 
-<img src="..\images\logo.png" alt="drawing" width="110"/>
+<img src="..\images\logo.png"
+     style="float: left; margin-right: 15px; 
+     margin-top:10px; margin-bottom: 10px; 
+     width:125px;height:145px;" 
+     />
 
-### Berdakh Abibullaev
+2532 Yorktown Str, #22,<br/>
+Houston, TX 77056 <br/>
+Phone: +1 (832) 779-7737‬ <br/>
+Email: <a href="mailto:berdakho@gmail.com">berdakho@gmail.com</a>  
+Web: http://berdakh.github.io, <br/>
 
-Assistant professor, Robotics and Mechatronics Department, School of Engineering and Digital Sciences
- 
-> [Short biography](https://nu.edu.kz/faculty/berdakh-abibullaev)
 
-> [berdakh.abibullaev at nu.edu.kz](mailto:berdakh.abibullaev@nu.edu.kz)
 
-> Phone: 6664
- 
+<p style="margin-bottom:1cm;"> <hr> </p>
+
+### Student 2
+
+<img src="..\images\logo.png"
+     style="float: left; margin-right: 15px; 
+     margin-top:10px; margin-bottom: 10px; 
+     width:125px;height:145px;" 
+     />
+     
+2532 Yorktown Str, #22,<br/>
+Houston, TX 77056 <br/>
+Phone: +1 (832) 779-7737‬ <br/>
+Email: <a href="mailto:berdakho@gmail.com">berdakho@gmail.com</a>  
+Web: http://berdakh.github.io, <br/>
+
+<p style="margin-bottom:1cm;"> <hr> </p>
+
+### Student 3
+
+<img src="..\images\logo.png"
+     style="float: left; margin-right: 15px; 
+     margin-top:10px; margin-bottom: 10px; 
+     width:125px;height:145px;" 
+     />
+     
+2532 Yorktown Str, #22,<br/>
+Houston, TX 77056 <br/>
+Phone: +1 (832) 779-7737‬ <br/>
+Email: <a href="mailto:berdakho@gmail.com">berdakho@gmail.com</a>  
+Web: http://berdakh.github.io, <br/>
+
+<p style="margin-bottom:1cm;"> <hr> </p>
+
+### Student 4
+
+<img src="..\images\logo.png"
+     style="float: left; margin-right: 15px; 
+     margin-top:10px; margin-bottom: 10px; 
+     width:125px;height:145px;" 
+     />
+     
+2532 Yorktown Str, #22,<br/>
+Houston, TX 77056 <br/>
+Phone: +1 (832) 779-7737‬ <br/>
+Email: <a href="mailto:berdakho@gmail.com">berdakho@gmail.com</a>  
+Web: http://berdakh.github.io, <br/>
+
+<p style="margin-bottom:1cm;"> <hr> </p>
+
+### Student 5
+
+<img src="..\images\logo.png"
+     style="float: left; margin-right: 15px; 
+     margin-top:10px; margin-bottom: 10px; 
+     width:125px;height:145px;" 
+     />
+     
+2532 Yorktown Str, #22,<br/>
+Houston, TX 77056 <br/>
+Phone: +1 (832) 779-7737‬ <br/>
+Email: <a href="mailto:berdakho@gmail.com">berdakho@gmail.com</a>  
+Web: http://berdakh.github.io, <br/>
+
+<p style="margin-bottom:1cm;"> <hr> </p>
+
+### Student 6
+
+<img src="..\images\logo.png"
+     style="float: left; margin-right: 15px; 
+     margin-top:10px; margin-bottom: 10px; 
+     width:125px;height:145px;" 
+     />
+     
+2532 Yorktown Str, #22,<br/>
+Houston, TX 77056 <br/>
+Phone: +1 (832) 779-7737‬ <br/>
+Email: <a href="mailto:berdakho@gmail.com">berdakho@gmail.com</a>  
+Web: http://berdakh.github.io, <br/>
+
+<p style="margin-bottom:1cm;"> <hr> </p>

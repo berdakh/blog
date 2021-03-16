@@ -1,19 +1,24 @@
+---
+layout: page
+title: Teaching
+permalink: /teaching/
+---
 
-# FALL Semester 2020 
+# Courses
 
 <!-- vscode-markdown-toc -->
-1. [Machine Learning with Applications (ROBT407)](#MachineLearningwithApplicationsROBT407)
-	* [Course Description](#CourseDescription)
-	* [Youtube lectures](#Youtubelectures)
-2. [Brain-Machine Interfaces (ROBT613)](#Brain-MachineInterfacesROBT613)
-	* [Course Description](#CourseDescription-1)
-	* [Youtube lectures](#Youtubelectures-1)
-
-<!-- vscode-markdown-toc-config
-	numbering=true
-	autoSave=true
-	/vscode-markdown-toc-config -->
-<!-- /vscode-markdown-toc -->
+- [Courses](#courses)
+  - [1. <a name='MachineLearningwithApplicationsROBT407'></a>Machine Learning with Applications (ROBT407)](#1-machine-learning-with-applications-robt407)
+    - [1.1. <a name='CourseDescription'></a>Course Description](#11-course-description)
+- [### Prerequisites/Corequisites](#-prerequisitescorequisites)
+- [### Course Objectives](#-course-objectives)
+- [### Course learning outcomes](#-course-learning-outcomes)
+    - [<a name='Youtubelectures'></a>Youtube lectures](#youtube-lectures)
+  - [2. <a name='Brain-MachineInterfacesROBT613'></a>Brain-Machine Interfaces (ROBT613)](#2-brain-machine-interfaces-robt613)
+    - [<a name='CourseDescription-1'></a>Course Description](#course-description)
+- [### Course Objectives](#-course-objectives-1)
+- [### Course learning outcomes](#-course-learning-outcomes-1)
+    - [<a name='Youtubelectures-1'></a>Youtube lectures](#youtube-lectures-1)
 
 ---
 
