@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab Members
+title: Members
 permalink: /members/
 ---
 <p style="margin-bottom:1cm;"> <hr> </p>
