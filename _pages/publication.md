@@ -17,7 +17,7 @@ permalink: /publication/
 [[Link]](https://ieeexplore.ieee.org/document/9099856)
 
 A. Zollanvari, M. Abdirash, A. Dadlani and <u>B. Abibullaev</u>.
-**Asymptotically Bias-Corrected Regularized Linear Discriminant Analysis
+**Asymptotically Bias-Corrected Regularized Linear Discriminant Analysis 
 for Cost-Sensitive Binary Classification**, *IEEE Signal Processing Letters*, 2019.
 [[Link]](https://ieeexplore.ieee.org/document/8720003)
 
