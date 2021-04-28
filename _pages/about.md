@@ -1,9 +1,182 @@
 ---
 layout: page
-title: Publications
-permalink: /publication/
+title: About
+permalink: /about/
 ---
+# <font size="5"> Berdakh Abibullaev Ph.D. </font>
 
+<img src="..\images\profilephoto.jpg"
+     style="float: left; margin-right: 15px; 
+     margin-top:10px; margin-bottom: 10px; 
+     width:125px;height:145px;" 
+/>
+
+Robotics and Mechatronics Department,<br/>
+School of Engineering and Digital Sciences, <br/>
+Nazarbayev University, <br/>
+Phone: +1 (832) 779-7736 <br/>
+Email: <a href="mailto:berdakho@gmail.com">berdakho@gmail.com</a>  
+Web: [http://berdakh.github.io](http://berdakh.github.io), <br/>
+
+<div id="webaddress">
+  <a href="https://berdakh.github.io/blog"><i class="fas fa-home"></i> Blog </a> - 
+  <a href="https://github.com/berdakh"><i class="fab fa-github"></i> berdakh</a> - 
+  <a href="https://www.researchgate.net/profile/Berdakh-Abibullaev"><i class="ai ai-researchgate"></i>B. Abibullaev</a> -
+    <a href="https://www.youtube.com/channel/UCOUcmoCAWBFaqPb1Fu3J86A/videos"><i class="fab fa-youtube"></i> YouTube </a> - <a href="./I2021[CV]-Berdakh.pdf" target="blank"> CV </a>
+</div>
+
+## Quick Links:
+  - [Executive Summary](#summary)
+  - [Short Biography](#short-biography)
+  - [Education](#education)
+  - [Work Experience](#experience)
+  - [Grants and Funding](#grants-and-funding)
+  - [Honors and Awards](#honors-and-awards)
+  - [Technical Skills](#technical-skills)
+  - [Service to Scientific Community](#academic-service)
+  - [Peer Reviewed Publications](#publications)    
+  
+## Summary
+
+`-`
+Brain-Computer/Machine Interface Systems researcher with deep expertise in analyzing Brain data (i.e., EEG, ECoG, MEG, NIRS) for a real-time/offline mental state recognition.
+
+`-`
+Deep expertise in developing machine learning and deep learning systems to large-scale, real-world problems, and working with complex data to produce innovative analysis and predictive models for inference.
+
+`-`
+Contribution to research communities and/or efforts, advance the state-of-the-art in the field, including generating patents and publications in top journals and conferences.
+<br/>  
+
+## Short Biography
+<p style='text-align: justify;'>
+Dr. Berdakh Abibullaev received his M.Sc. and Ph.D. degrees in electronic engineering from Yeungnam University, South Korea in 2006  and 2010 under the Korean Government Scholarship program. He held researcher scientist positions at Daegu-Gyeongbuk Institute of Science and Technology (2010-2013) and Samsung Medical Center, South Korea (2013-2014). He was also appointed as a research professor at Sungkyunkwan University, Seoul. In 2014, he received NIH (National Institute of Health, USA), a postdoctoral research fellowship to join a research project between the University of Houston Brain-Machine Interface Systems Team and a Texas Medical Center in developing neural interfaces for rehabilitation in post-stroke patients. Currently, he is an Assistant Professor in the Department of Robotics and Mechatronics, Nazarbayev University, Kazakhstan. </p>
+<p style='text-align: justify;'>
+Dr. Abibullaev has considerable research and clinical experience working with patient populations in applying scientific and technical skills to advance the development of treatments for neurological disorders. His current research focuses on developing signal processing and machine learning algorithms for the inference problems of Brain-Computer Interfaces, and brain data analysis.
+</p>
+
+## Education
+
+`2006-2010`
+**Ph.D., Electronic and Electrical Engineering**, *Yeungnam University*, South Korea.
+
+`2004-2006`
+**M.Sc., Electronic and Electrical Engineering**, *Yeungnam University*, South Korea.
+
+`2000-2004`
+**B.Sc., Information Technology**, *Tashkent University of Information Technologies*, Uzbekistan.
+
+## Experience
+
+`09/2015-present`
+**Assistant Professor**, *Robotics & Mechatronics Department, School of Engineering and Digital Sciences, Nazarbayev University*, Nur-Sultan, Kazakhstan.
+
+`05/2018 - 07/2018`
+**Visiting Professor**, *Department of Electrical Engineering & Computer Science, University of Houston*, Houston, Texas, USA.
+
+`05/2014 - 09/2015`
+**NIH Postdoctoral Research Fellow II**, *Department of Electrical Engineering & Computer Science, University of Houston*,Houston, Texas, USA.
+
+`01/2014 - 05/2014`
+**Research Scientist**, *Department of Neurology, Samsung Medical Center, Sungkyunkwan University,*, Seoul, South Korea.
+
+`05/2011 - 12/2013`
+**Senior Research Scientist**, *Robotics Research Division, Daegu Gyeongbuk Institute of Science and Technology*, South Korea.
+
+`02/2010 - 05/2011`
+**Postdoctoral fellow**, *Robotics Research Division, Daegu Gyeongbuk Institute of Science and Technology*, South Korea.
+
+
+## Grants and funding
+
+*Current Funding which includes only amounts over 40000 USD*
+
+`01/2021-12/2023` 
+**Principal Investigator**, *Brain-Computer Interface to Exoskeleton System Design for Personalized Upper-Limb Rehabilitation after Stroke*, Nazarbayev University.<br/>
+This project aims to accelerate the efficacy of robotic rehabilitation using a new neural interface system developed for upper-limb repair after stroke. It aims to facilitate expediate motor recovery from incomplete upper-limb paralysis, and to investigate in-depth understanding of cortical reorganization in the brain associated with the recovery
+
+`01/2021-12/2023` 
+**Co-Investigator**, *Classifier Validity and Its Applications in Bioinformatics,<br/> The project studies the measures of classifier validity and explores their applications in bioinformatics. Nazarbayev University.<br/>
+
+`01/2019-12/2021`
+**Co-Principal Investigator**, *Neural-assisted optimization of human learning with multimodal neuroimaging of EEG and NIRS*, Nazarbayev University.<br/>
+Implementing and validate a neural-assisted, machine-learning-based intelligent  tutoring system that uses information from physiological signals to adapt the learning schedule to a user's individual learning capacity
+
+
+## Honors and Awards
+`11/2017` 
+**The best paper award**, *fNIRS motion artifact
+correction for overground walking using entropy-based unbalanced optode decision and wavelet regression neural network*,<br/> in Fusion and Integration for Intelligent Systems (MFI), 2017 IEEE International Conference, South Korea.
+
+`06/2014` 
+**The best poster award**, *The evaluation of accuracy and clinical usefulness of 3D EEG source localization analysis*,<br/> Korean Epilepsy Congress 2014.
+
+`12/2012` 
+**The best Researcher of the Year Award**, *Robotics Research Division, Daegu Gyeongbuk Institute of Science and Technology*, South Korea.
+
+`09/2006` 
+**Korean Government Scholarship**, *Recipient of competitive Korean Government Information Technology Scholarship for International Graduate Students for a Ph.D. program*, South Korea.
+
+`09/2004` 
+**Brain Korea Scholarship**, *Recipient of competitive graduate scholarship for a M.Sc. program*, South Korea.
+
+[Go to Top](#quick-links)
+
+## Technical Skills 
+
+**Software :** Expert in the Python Language and libraries such as Cython; very good knowledge of C, C++. Experience with a variety of tools and languages, including bash, LATEX, HTML, Git, various database query languages etc. 
+
+**Data Science :** Expert in NumPy, Scipy, Sklearn, PyTorch, Tensoflow, Keras, Azure DevOps. 
+ 
+**Neural Data acquisition :** Expert user of Nicolet EEG Amplifiers, Blackrock Microsystems (intracranial recording), Functional Near-Infrared Spectroscopy FOIRE3000, BIOPAC fNIR200 Optical Brain Imaging, BioSemi Active-Two EEG system, Brain Products EEG amp., BIOPAC MP100 EEG amp. And G.tec g.USBamp systems. 
+
+**Productivity applications :** LaTeX, BibTEX, PSTricks, Beamer 
+
+**System Environments :** Linux (Ubuntu, Pop!_OS - favorite distro), Windows
+
+### Language Skills
+- English (Professional proficiency) 
+- Korean  (Professional conversational skills)
+  
+## Academic Service 
+**Associate Editor** 
+ - IEEE Access
+ - PeerJ Computer Science 
+
+**Program Committee Member** 
+
+International Workshop on Artificial Intelligence for Healthcare Applications at International Conference on Pattern Recognition 2020.
+
+The 7th International Conference on New Trends in Information Science, Service Science and Data Mining, June 18-20, 2013, Jeju Island, South Korea.
+
+The 8th International Conference on Information Processing, Management and Intelligent Information Technology, April 1-3, 2013, Seoul, South Korea.
+
+The 16th North-East Asia Symposium on Nano, Information Technology and Reliability, Oct.24-26, 2011, South Macao.
+
+**Session Chair**
+
+The 6th International Conference on Brain-Computer Interface (BCI), IEEE, 2018, South Korea
+
+IEEE International Conference on Multisensor Fusion and Integration for Intelligent Systems, 2017, Daegu, South Korea.
+
+The 6th Int. Conference on Networked Computing, May 11-13, 2010, Gyeongju, South Korea.
+
+International Conference on Control Automation and Systems Oct.27-30, 2010, Seoul, South Korea.
+  
+**Occasional Reviewer**
+- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Journal of Biomedical and Health Informatics.
+- IEEE Transactions on Systems, Man, and Cybernetics: Systems
+- Brain Research, Elsevier.
+- Neuroimage, Elsevier.
+- Medical Engineering and Physics, Elsevier.
+- Medical & Biological Engineering & Computing, Springer.
+<br/>  
+
+
+## Publications
+
+*Publication list also available [in Google Scholar](https://scholar.google.com/citations?hl=en&user=KvECkz0AAAAJ&view_op=list_works&sortby=pubdate).  
 
   - [**Journal Publications**](#journal-publications)
   - [**Conference Publications**](#conference-publications)
@@ -17,7 +190,7 @@ permalink: /publication/
 [[Link]](https://ieeexplore.ieee.org/document/9099856)
 
 A. Zollanvari, M. Abdirash, A. Dadlani and <u>B. Abibullaev</u>.
-**Asymptotically Bias-Corrected Regularized Linear Discriminant Analysis 
+**Asymptotically Bias-Corrected Regularized Linear Discriminant Analysis
 for Cost-Sensitive Binary Classification**, *IEEE Signal Processing Letters*, 2019.
 [[Link]](https://ieeexplore.ieee.org/document/8720003)
 
@@ -285,3 +458,4 @@ J. An, S.H. Jin, S.H. Lee,  <u>B. Abibullaev</u>, J.I. Moon , J.H. Ahn and G.H. 
 
 <br/>
 <br/>
+[Go to Top](#quick-links)
