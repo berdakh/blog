@@ -51,7 +51,6 @@ show_description: true
 show_image: true
 
 # Set this to true to turn on annotations with hypothes.is (https://web.hypothes.is/)
-annotations: false
 
 # Set this to true to display tags on each post
 show_tags: true
@@ -59,47 +58,33 @@ show_tags: true
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics: 
 
+google_analytics:
+
 exclude:
+  - CONTRIBUTING.md
+  - DEVELOPMENT.md
+  - settings.ini
   - docker-compose.yml
   - action.yml
+  - README_TEMPLATE.md
   - Makefile
-
-# this setting allows you to keep pages organized in the _pages folder
-include:
-  - _pages
-
-# This specifies what badges are turned on by default for notebook posts.
-default_badges:
-  github: true
-  binder: true
-  colab: true
-
-# Escape HTML in post descriptions
-html_escape:
-  description: false
+  - assets/examples/
 
 # Everything below here should be left alone. Modifications may break fastpages
-future: true
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-octicons
+  - jekyll-github-metadata
   - jekyll-toc
   - jekyll-twitter-plugin
   - jekyll-relative-links
   - jekyll-seo-tag
-  - jekyll-remote-theme
-  - jekyll-paginate
   - jekyll-sitemap
-  - jemoji
 
-# See https://jekyllrb.com/docs/pagination/
-# For pagination to work, you cannot have index.md at the root of your repo, instead you must rename this file to index.html
-paginate: 15
-paginate_path: /page:num/
-
-remote_theme: jekyll/minima
+minima:
+    date_format: "%Y-%m-%d"
 
 titles_from_headings:
   enabled:     true
