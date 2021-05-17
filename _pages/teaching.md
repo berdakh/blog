@@ -1,9 +1,3 @@
----
-layout: page
-title: Teaching
-permalink: /teaching/
----
-
 
 ## Machine Learning with Applications  
 ### Course Description
@@ -81,8 +75,6 @@ The course will be delivered in the form of mixed lectures with case studies and
 
 -   **Textbook:** •	Wolpaw, Jonathan, and Elizabeth Winter Wolpaw. Brain-computer interfaces: principles and practice.
                     OUP, USA, 2012.
- 
-
  
 ### Course Objectives
 =================
