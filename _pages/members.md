@@ -1,10 +1,8 @@
 <p style="margin-bottom:1cm;"> <hr> </p>
 
-
 This page is under construction.
 
 <p style="margin-bottom:1cm;"> <hr> </p>
-
 
 ###  Berdakh Abibullaev Ph.D. 
 <img src="..\images\logo.png"
