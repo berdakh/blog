@@ -3,14 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-<style>
-  html * {
-    line-height: 1.525;
-    color: #2020131;
-    font-family: Fira Code, sans-serif;
-  }
-</style>
-
 # <font size="5"> Berdakh Abibullaev Ph.D. </font>
 
 <img src="..\images\profilephoto.jpg"
